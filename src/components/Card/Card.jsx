@@ -4,7 +4,7 @@ const Card = () => {
     <div>
       <motion.div
         className="card bg-transparent "
-        style={{ width: "700px" }}
+        style={{ width: "700px" ,border:'none'}}
         initial={{ opacity: 0, y: -1000 }}
         animate={{ opacity: 1, y: 0 }}
         exit={{ opacity: 0, y: -1000 }}
