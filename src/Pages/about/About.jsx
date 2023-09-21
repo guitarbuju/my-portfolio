@@ -9,7 +9,7 @@ import camera from "../../assets/icons8-camera-24.png";
 import CardESP from "../../components/Card/CardESP";
 import espana from '../../assets/icons8-spain-48.png'
 import usa from '../../assets/icons8-usa-48.png'
-import styles from './module.about.css'
+
 
 const About = () => {
   const [checked, setChecked] = useState(true);

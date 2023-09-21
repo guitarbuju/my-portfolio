@@ -10,7 +10,17 @@ export const content = [
         all aspects of Social Media, including creating, editing, and
         posting videos, images, and content across major platforms like
         Facebook, Instagram, and LinkedIn.`,
-    tech: ["Wix", "Imovie", "Illustrator", "Javascript", "React.Js","Instagram","Facebook","Linkedin","YouTube"],
+    tech: [
+      "Wix",
+      "Imovie",
+      "Illustrator",
+      "Javascript",
+      "React.Js",
+      "Instagram",
+      "Facebook",
+      "Linkedin",
+      "YouTube",
+    ],
     url: "https://sisteam-group.es/",
     relevant: true,
   },
@@ -37,7 +47,7 @@ export const content = [
 
     My association with Setitem was a brief yet impactful chapter in my professional journey. Serving as an intern,
      I had the privilege of contributing to various aspects of the company, primarily focusing on WordPress development and graphic design. `,
-    tech:["Wordpress", "PHP", "Keynote","Google"],
+    tech: ["Wordpress", "PHP", "Keynote", "Google"],
     url: "https://www.setitem.com/",
     relevant: true,
   },
@@ -52,7 +62,7 @@ export const content = [
     During my tenure, I assumed the pivotal responsibility of overseeing a spectrum of administrative functions. 
     These encompassed intricate tasks such as managing accounting, handling accounts payable and receivables,
      orchestrating human resources activities, streamlining admissions procedures, and steering various critical processes.`,
-    tech: ["MSOffice", "ERP", "Finance", "HR","Accounting"],
+    tech: ["MSOffice", "ERP", "Finance", "HR", "Accounting"],
     url: "https://hospitalclinicmaresme.com/es/",
     relevant: false,
   },
@@ -67,7 +77,17 @@ export const content = [
     During my tenure as General Manager, I took on a comprehensive  array of responsibilities. 
     This encompassed spearheading various facets, including administration, financial operations, human resources management, 
     and the strategic implementation of software systems.`,
-    tech: ["MDSystem", "Kaizen", "Finance", "HR", "MSAccess","Accounting","PM","Compliance","Contracts"],
+    tech: [
+      "MDSystem",
+      "Kaizen",
+      "Finance",
+      "HR",
+      "MSAccess",
+      "Accounting",
+      "PM",
+      "Compliance",
+      "Contracts",
+    ],
     url: "https://instagram.com/guadalupeclinic?igshid=MzRlODBiNWFlZA==",
     relevant: false,
   },
@@ -637,21 +657,52 @@ const portfolio = [
     desc: `Cinerama is your ultimate destination for serious moviegoers. This page offers 
     a seamless experience where you can not only purchase movie tickets but also customize your popcorn combos, 
     all in one place.`,
-    descripcion:`Cinerama es el destino ideal para los cinéfilos serios. Nuestra página  ofrece
+    descripcion: `Cinerama es el destino ideal para los cinéfilos serios. Nuestra página  ofrece
     una experiencia perfecta donde no solo puedes comprar entradas para el cine sino también personalizar tus combos de palomitas de maíz,
     todo en un lugar`,
     rating: "5",
     hub: "https://github.com/guitarbuju",
     cat: "FRONTEND",
-    tech: ["React Js", "HTML", "CSS", "Javascript","Zustand","Framer Motion","Tailwind CSS","Daisy UI"],
+    tech: [
+      "React Js",
+      "HTML",
+      "CSS",
+      "Javascript",
+      "Zustand",
+      "Framer Motion",
+      "Tailwind CSS",
+      "Daisy UI",
+    ],
     stage: "RECENT WORK",
-    etapa:"RECIENTE"
+    etapa: "RECIENTE",
+  },
+  {
+    img: "https://drive.google.com/file/d/1p000ans2ndcIDPaUccFEk7rocKxfAscl/view?usp=drive_link",
+    title: "FANCYCAR",
+    desc: `At Fancycar.com, we specialize in curating the finest collection of vintage and luxury cars from legendary manufacturers like Lamborghini, Ferrari, Maserati, Porsche, Bugatti, Aston Martin, Mclaren and more. If you are a discerning enthusiast looking to own a piece of automotive history, you've come to the right place.`,
+    descripcion: `En Fancycar.com, nos especializamos en seleccionar la mejor colección de autos clàsicos deportivos  y de colecciòn de fabricantes legendarios como Lamborghini, Ferrari, Maserati, Porsche, Bugatti, Aston Martin, Mclaren y más. Si Ud. es un entusiasta exigente que busca poseer un trozo de la historia del automóvil, ha venido al lugar correcto.`,
+    rating: "5",
+    hub: "https://github.com/guitarbuju",
+    cat: "FRONTEND",
+    tech: [
+      "React Js",
+      "HTML",
+      "CSS",
+      "Javascript",
+      "Zustand",
+      "Framer Motion",
+      "Tailwind CSS",
+      "Daisy UI",
+      "Mamba UI"
+    ],
+    stage: "RECENT WORK",
+    etapa: "RECIENTE",
   },
   {
     img: "https://drive.google.com/file/d/1mu_VewPpOxEY3unBVJAQY-0Df7eFTm1N/view?usp=drive_link",
     title: "MEGO TOY STORE",
     desc: "This is a Online store mock for a famous 70s - 80s toy company called MEGO. I'm using React JS, Zustand, Taiwind css, Daisy Ui, framer motion amd more",
-    descripcion:`Este es un simulacro de tienda en línea para una famosa compañía de juguetes de los años 70 y 80 llamada MEGO. Estoy usando React JS, Zustand, Tailwind css, Daisyui, framer motion y más`,
+    descripcion: `Este es un simulacro de tienda en línea para una famosa compañía de juguetes de los años 70 y 80 llamada MEGO. Estoy usando React JS, Zustand, Tailwind css, Daisyui, framer motion y más`,
     rating: "5",
     hub: "https://github.com/guitarbuju",
     cat: "FRONTEND",
@@ -666,7 +717,7 @@ const portfolio = [
       " Framer Motion",
     ],
     stage: "RECENT WORK",
-    etapa:' RECIENTE'
+    etapa: " RECIENTE",
   },
   {
     img: "https://drive.google.com/file/d/1yxYt6yvb-Cyj8Plckiye8BBgz4Bocxw5/view?usp=drive_link",
@@ -676,7 +727,7 @@ const portfolio = [
     f innovation and efficiency. With a minimalist interface, it redefines productivity. Each line of code is meticulously crafted to transform chaos into order,
      overwhelm into manageability. This app isn't just about tasks; it's about orchestrating them flawlessly. Experience the power of 
      sophistication and functionality, seamlessly fused into a deceptively simple design that's anything but ordinary. `,
-     descripcion:`Conozca nuestra sencilla pero brillante aplicación de lista de tareas pendientes. Más allá de su aparente sencillez se esconde una creación que no sólo
+    descripcion: `Conozca nuestra sencilla pero brillante aplicación de lista de tareas pendientes. Más allá de su aparente sencillez se esconde una creación que no sólo
      cumple pero supera los rigurosos estándares establecidos por MERN STACK TFM en mi campo de entrenamiento. Esta no es una aplicación ordinaria; es una sinfonía o
      de innovación y eficiencia. Con una interfaz minimalista, redefine la productividad. `,
     rating: "5",
@@ -695,33 +746,33 @@ const portfolio = [
       "Bycript",
     ],
     stage: "RECENT WORK",
-    etapa:' RECIENTE'
+    etapa: " RECIENTE",
   },
   {
     img: "https://drive.google.com/file/d/1mi8GMiuhwQmPf-AD_x5QjyksgLMqcl7C/view?usp=drive_link",
     title: "POKEMON API",
     desc: "Not written with the famous public API but is pretty cool, it has random images , and different routing, navigation, and pagination. Zustand React Router and some imagination",
-    descripcion:`No está escrito con la famosa API pública, pero es genial, tiene imágenes aleatorias y diferentes rutas, navegación y paginación. Zustand React Router y algo de imaginación`,
+    descripcion: `No está escrito con la famosa API pública, pero es genial, tiene imágenes aleatorias y diferentes rutas, navegación y paginación. Zustand React Router y algo de imaginación`,
     rating: "5",
     hub: "https://github.com/guitarbuju",
     cat: "FRONTEND",
     tech: ["React Js", "HTML", "CSS", "Javascript", "Bootstrap"],
     stage: "RECENT WORK",
-    etapa:' RECIENTE'
+    etapa: " RECIENTE",
   },
   {
     img: "https://drive.google.com/file/d/1MpoQZ6KfQ_DsVVwQu3SD68xZp5qOzxQC/view?usp=drive_link",
     title: "REACT TEST ",
     desc: `One of the most important  and common things that relates to users are Tests and Surveys on the internet. I believe Tests shouldn't be boring.
     So I decided to write a test app with pagination with answers on the spot and a final results page `,
-    descripcion:`Una de las cosas más importantes y comunes que se relacionan con los usuarios son las Pruebas y Encuestas en Internet. Creo que las pruebas no deberían ser aburridas.
+    descripcion: `Una de las cosas más importantes y comunes que se relacionan con los usuarios son las Pruebas y Encuestas en Internet. Creo que las pruebas no deberían ser aburridas.
     Así que decidí escribir una aplicación de prueba con paginación y respuestas en el acto y una página de resultados finales.`,
     rating: "3",
     hub: "https://github.com/guitarbuju",
     cat: "FRONTEND",
-    tech: [ 'React Js','Zustand', "React Router", "Javascript ","Bootstrap"],
+    tech: ["React Js", "Zustand", "React Router", "Javascript ", "Bootstrap"],
     stage: "RECENT WORK",
-    etapa:" RECIENTE"
+    etapa: " RECIENTE",
   },
   {
     img: "https://drive.google.com/file/d/157yO83z6K-1pl21PNyenLgrMD8YkmQzU/view?usp=drive_link",
@@ -730,7 +781,7 @@ const portfolio = [
     territory – my very first React project. Devoid of tutorials and pretentiousness, this project 
     was born from the depths of my imagination and translated into code, an ode to the unbridled spirit 
     of invention.`,
-    descripcion:`En un mundo donde la creatividad no tiene límites, me dispuse a trazar un curso en 
+    descripcion: `En un mundo donde la creatividad no tiene límites, me dispuse a trazar un curso en 
     territorio desconocido para mi– mi primer proyecto React. Desprovisto de tutoriales y pretensiones, 
     este proyecto nació de lo más profundo de mi imaginación y se tradujo en código, una oda al espíritu desenfrenado
     de invención.`,
@@ -739,27 +790,27 @@ const portfolio = [
     cat: "FRONTEND",
     tech: ["React Js", "HTML", "CSS", "Javascript"],
     stage: "EARLY WORK",
-    etapa:"COMIENZOS"
+    etapa: "COMIENZOS",
   },
-  
+
   {
     img: "https://drive.google.com/file/d/1CouBzr_NgcibzavH3WPmxzPoYhArDuHv/view?usp=drive_link",
     title: "JS MOVIE API",
     desc: " Here is a movie list API Simple yet clever vanilla JS app for practicing fetch and pagination",
-    descripcion:`Esta es una API de lista de películas. Aplicación JS simple pero inteligente para practicar búsqueda y paginación.`,
+    descripcion: `Esta es una API de lista de películas. Aplicación JS simple pero inteligente para practicar búsqueda y paginación.`,
     rating: "3",
     hub: "https://github.com/guitarbuju",
     cat: "FRONTEND",
     tech: ["HTML", "CSS", "Javascript"],
     stage: "EARLY WORK",
-    etapa:"COMIENZOS"
+    etapa: "COMIENZOS",
   },
-  
+
   {
     img: "https://drive.google.com/file/d/1nkLVMPwRFqjVyJ47IkATbyJtbmHYrnti/view?usp=drive_link",
     title: "KITTY - FORM",
     desc: "A simple fullstack app with express js and mysql. The idea behind it is to learn React Router and mySQL",
-    descripcion:`Una sencilla aplicación fullstack con express js y mysql. La idea detrás de esto es aprender React Router y mySQL`,
+    descripcion: `Una sencilla aplicación fullstack con express js y mysql. La idea detrás de esto es aprender React Router y mySQL`,
     rating: "4",
     hub: "https://github.com/guitarbuju",
     cat: "FULLSTACK",
@@ -774,41 +825,41 @@ const portfolio = [
       "Bootstrap",
     ],
     stage: "SOPHOMORE",
-    etapa:"CRECIENDO"
+    etapa: "CRECIENDO",
   },
-  
+
   {
     img: "https://drive.google.com/file/d/1oSXe6mVeE4K5ajio72um763vRHiYQ7-H/view?usp=drive_link",
     title: "SISTEAM INSTITUTO ",
     desc: "Here is my first attempt at developing a web site. Wix is not as common as Wordpress but definitely is more user friendly and has cooler features",
-    descripcion:`Aqui esta mi primer intento de desarrollar un sitio web. Wix no es tan común como Wordpress, pero definitivamente es más fácil de usar y tiene características más geniales.`,
+    descripcion: `Aqui esta mi primer intento de desarrollar un sitio web. Wix no es tan común como Wordpress, pero definitivamente es más fácil de usar y tiene características más geniales.`,
     rating: "3",
     hub: "https://sistemafl8.wixsite.com/sisteam-1",
     cat: "CMS",
     tech: ["Wix", "HTML", "CSS", "Keynote"],
     stage: "EARLY WORK",
-    etapa:"COMIENZOS"
+    etapa: "COMIENZOS",
   },
   {
     img: "https://drive.google.com/file/d/1LazTycZyS4DfiRtS8XKsKVbgnpgLaHHt/view?usp=drive_link",
     title: "START TREK Klingon Dice ",
     desc: `This is actually a pretty cool app. You can select a hero and the system will randomly select a foe. the idea is to play street dice
     and compete against the computer`,
-    descripcion:`Esta  es en realidad una aplicación muy buena. Puedes seleccionar un héroe y el sistema seleccionará aleatoriamente un enemigo.
+    descripcion: `Esta  es en realidad una aplicación muy buena. Puedes seleccionar un héroe y el sistema seleccionará aleatoriamente un enemigo.
      la idea es jugar a los dados callejeros y competir contra la computadora`,
     rating: "4",
     hub: "https://github.com/guitarbuju",
     cat: "FRONTEND",
     tech: ["React Js", "HTML", "CSS", "Javascript"],
     stage: "EARLY WORK",
-    etapa:"COMIENZOS"
+    etapa: "COMIENZOS",
   },
   {
     img: "https://drive.google.com/file/d/1rj95GgBuUO6fjj545QVm2uEtP44Rxb4V/view?usp=drive_link",
     title: "ROBOCOP CONSOLE ",
     desc: `I wanted to go beyond a simple to-do app so i wrote this funny Robocop themed app. It is a Fullstack project but it doesn´t have any BD-
      It plays randon movie sounds on submit , it even plays the movie's main theme`,
-    descripcion:`Quería ir más allá de una simple aplicación de tareas pendientes, así que escribí esta divertida aplicación temática de Robocop. 
+    descripcion: `Quería ir más allá de una simple aplicación de tareas pendientes, así que escribí esta divertida aplicación temática de Robocop. 
     Es un proyecto Fullstack pero no tiene ningún BD-
     Reproduce sonidos aleatorios de disparos y dialogos al enviar e incluso reproduce el tema principal de la película.`,
     rating: "5",
@@ -816,50 +867,50 @@ const portfolio = [
     cat: "FULLSTACK",
     tech: ["React Js", "HTML", "CSS", "Javascript", "Express Js"],
     stage: "SOPHOMORE",
-    etapa:"CRECIENDO"
+    etapa: "CRECIENDO",
   },
   {
     img: "https://drive.google.com/file/d/17jbwi2VBglnFwSCZFcCnPVfzKeKqBick/view?usp=drive_link",
     title: "JOKER CALCULATOR ",
     desc: `This a simple vanilla JS calculator which is handled with the EVAL() method. I wanted to make it cooler
     by using the joker theme, it can reproduce a laughter sound when clicked the equal button`,
-    descripcion:`Esta es una calculadora JS simple que se maneja con el método EVAL(). Quería hacerlo más fresco
+    descripcion: `Esta es una calculadora JS simple que se maneja con el método EVAL(). Quería hacerlo más fresco
     al usar el tema del Joker, puede reproducir un sonido de risa cuando se hace clic en el botón igual`,
     rating: "4",
     hub: "https://github.com/guitarbuju",
     cat: "FRONTEND",
-    tech: [ "HTML", "CSS", "Javascript "],
+    tech: ["HTML", "CSS", "Javascript "],
     stage: "SOPHOMORE",
-    etapa:"CRECIENDO"
+    etapa: "CRECIENDO",
   },
   {
     img: "https://drive.google.com/file/d/1d7_oXGacOkL_6u2xfUYH40yESfMLzNDV/view?usp=drive_link",
     title: "ASK A JEDI MASTER ",
     desc: `I love Star Wars so I wanted to build something with that theme. This app triggers a fetch request to a 
     free public quotes API. My main goal writing this app is to learn fetch and asyncronous javascript`,
-    descripcion:`Me encanta Star Wars, así que quería construir algo con ese tema. Esta aplicación activa una solicitud de búsqueda para un
+    descripcion: `Me encanta Star Wars, así que quería construir algo con ese tema. Esta aplicación activa una solicitud de búsqueda para un
     API publica gratuita de dichos . Mi objetivo principal al escribir esta aplicación es aprender a hacer requisiciones y javascript asíncrono`,
     rating: "3",
     hub: "https://github.com/guitarbuju",
     cat: "FRONTEND",
-    tech: [ "HTML", "CSS", "Javascript "],
+    tech: ["HTML", "CSS", "Javascript "],
     stage: "SOPHOMORE",
-    etapa:"CRECIENDO"
+    etapa: "CRECIENDO",
   },
-  
+
   {
     img: "https://drive.google.com/file/d/1JHUlLYzyEjrTLpa_izLQme0De5rRuYxi/view?usp=drive_link",
     title: "REACT CALCULATOR ",
     desc: `A simple but nice looking calculator written with React Js. It uses the EVAL() method for calculations. The colors and theme were chosen to match
     my school's `,
-    descripcion:`Una calculadora simple pero bonita escrita con React Js. Utiliza el método EVAL() para los cálculos. Los colores y el tema fueron elegidos para combinar
+    descripcion: `Una calculadora simple pero bonita escrita con React Js. Utiliza el método EVAL() para los cálculos. Los colores y el tema fueron elegidos para combinar
     la de mi escuela`,
     rating: "3",
     hub: "https://github.com/guitarbuju",
     cat: "FRONTEND",
-    tech: [ 'React Js', "Javascript ","HTML","CSS"],
+    tech: ["React Js", "Javascript ", "HTML", "CSS"],
     stage: "EARLY WORK",
-    etapa:" COMIENZOS"
+    etapa: " COMIENZOS",
   },
 ];
 
@@ -867,6 +918,6 @@ export const modifiedPortfolio = portfolio.map((e, index) => ({
   ...e,
   id: index,
   img: e.img
-    .replace("/view?usp=drive_link", "") 
-    .replace("/file/d/", "/uc?export=view&id=")
+    .replace("/view?usp=drive_link", "")
+    .replace("/file/d/", "/uc?export=view&id="),
 }));
