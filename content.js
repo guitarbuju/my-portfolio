@@ -661,7 +661,7 @@ const portfolio = [
     una experiencia perfecta donde no solo puedes comprar entradas para el cine sino también personalizar tus combos de palomitas de maíz,
     todo en un lugar`,
     rating: "5",
-    hub: "https://github.com/guitarbuju",
+    hub: "https://theamazingcinerama.netlify.app/",
     cat: "FRONTEND",
     tech: [
       "React Js",
@@ -675,6 +675,7 @@ const portfolio = [
     ],
     stage: "RECENT WORK",
     etapa: "RECIENTE",
+    published:true,
   },
   {
     img: "https://drive.google.com/file/d/1p000ans2ndcIDPaUccFEk7rocKxfAscl/view?usp=drive_link",
@@ -682,7 +683,7 @@ const portfolio = [
     desc: `At Fancycar.com, we specialize in curating the finest collection of vintage and luxury cars from legendary manufacturers like Lamborghini, Ferrari, Maserati, Porsche, Bugatti, Aston Martin, Mclaren and more. If you are a discerning enthusiast looking to own a piece of automotive history, you've come to the right place.`,
     descripcion: `En Fancycar.com, nos especializamos en seleccionar la mejor colección de autos clàsicos deportivos  y de colecciòn de fabricantes legendarios como Lamborghini, Ferrari, Maserati, Porsche, Bugatti, Aston Martin, Mclaren y más. Si Ud. es un entusiasta exigente que busca poseer un trozo de la historia del automóvil, ha venido al lugar correcto.`,
     rating: "5",
-    hub: "https://github.com/guitarbuju",
+    hub: "https://fancycar.netlify.app/",
     cat: "FRONTEND",
     tech: [
       "React Js",
@@ -697,6 +698,7 @@ const portfolio = [
     ],
     stage: "RECENT WORK",
     etapa: "RECIENTE",
+    published:true,
   },
   {
     img: "https://drive.google.com/file/d/1mu_VewPpOxEY3unBVJAQY-0Df7eFTm1N/view?usp=drive_link",
@@ -704,7 +706,7 @@ const portfolio = [
     desc: "This is a Online store mock for a famous 70s - 80s toy company called MEGO. I'm using React JS, Zustand, Taiwind css, Daisy Ui, framer motion amd more",
     descripcion: `Este es un simulacro de tienda en línea para una famosa compañía de juguetes de los años 70 y 80 llamada MEGO. Estoy usando React JS, Zustand, Tailwind css, Daisyui, framer motion y más`,
     rating: "5",
-    hub: "https://github.com/guitarbuju",
+    hub: "https://megotoystore.netlify.app/",
     cat: "FRONTEND",
     tech: [
       "React Js",
@@ -718,6 +720,7 @@ const portfolio = [
     ],
     stage: "RECENT WORK",
     etapa: " RECIENTE",
+    published:true,
   },
   {
     img: "https://drive.google.com/file/d/1yxYt6yvb-Cyj8Plckiye8BBgz4Bocxw5/view?usp=drive_link",
@@ -747,6 +750,7 @@ const portfolio = [
     ],
     stage: "RECENT WORK",
     etapa: " RECIENTE",
+    published:false,
   },
   {
     img: "https://drive.google.com/file/d/1mi8GMiuhwQmPf-AD_x5QjyksgLMqcl7C/view?usp=drive_link",
@@ -759,6 +763,7 @@ const portfolio = [
     tech: ["React Js", "HTML", "CSS", "Javascript", "Bootstrap"],
     stage: "RECENT WORK",
     etapa: " RECIENTE",
+    published:false,
   },
   {
     img: "https://drive.google.com/file/d/1MpoQZ6KfQ_DsVVwQu3SD68xZp5qOzxQC/view?usp=drive_link",
@@ -773,6 +778,7 @@ const portfolio = [
     tech: ["React Js", "Zustand", "React Router", "Javascript ", "Bootstrap"],
     stage: "RECENT WORK",
     etapa: " RECIENTE",
+    published:false,
   },
   {
     img: "https://drive.google.com/file/d/157yO83z6K-1pl21PNyenLgrMD8YkmQzU/view?usp=drive_link",
@@ -791,6 +797,7 @@ const portfolio = [
     tech: ["React Js", "HTML", "CSS", "Javascript"],
     stage: "EARLY WORK",
     etapa: "COMIENZOS",
+    published:false,
   },
 
   {
@@ -804,6 +811,7 @@ const portfolio = [
     tech: ["HTML", "CSS", "Javascript"],
     stage: "EARLY WORK",
     etapa: "COMIENZOS",
+    published:false,
   },
 
   {
@@ -826,6 +834,7 @@ const portfolio = [
     ],
     stage: "SOPHOMORE",
     etapa: "CRECIENDO",
+    published:false,
   },
 
   {
@@ -839,6 +848,7 @@ const portfolio = [
     tech: ["Wix", "HTML", "CSS", "Keynote"],
     stage: "EARLY WORK",
     etapa: "COMIENZOS",
+    published:false,
   },
   {
     img: "https://drive.google.com/file/d/1LazTycZyS4DfiRtS8XKsKVbgnpgLaHHt/view?usp=drive_link",
@@ -853,6 +863,7 @@ const portfolio = [
     tech: ["React Js", "HTML", "CSS", "Javascript"],
     stage: "EARLY WORK",
     etapa: "COMIENZOS",
+    published:false,
   },
   {
     img: "https://drive.google.com/file/d/1rj95GgBuUO6fjj545QVm2uEtP44Rxb4V/view?usp=drive_link",
@@ -868,6 +879,7 @@ const portfolio = [
     tech: ["React Js", "HTML", "CSS", "Javascript", "Express Js"],
     stage: "SOPHOMORE",
     etapa: "CRECIENDO",
+    published:false,
   },
   {
     img: "https://drive.google.com/file/d/17jbwi2VBglnFwSCZFcCnPVfzKeKqBick/view?usp=drive_link",
@@ -882,6 +894,7 @@ const portfolio = [
     tech: ["HTML", "CSS", "Javascript "],
     stage: "SOPHOMORE",
     etapa: "CRECIENDO",
+    published:false,
   },
   {
     img: "https://drive.google.com/file/d/1d7_oXGacOkL_6u2xfUYH40yESfMLzNDV/view?usp=drive_link",
@@ -896,6 +909,7 @@ const portfolio = [
     tech: ["HTML", "CSS", "Javascript "],
     stage: "SOPHOMORE",
     etapa: "CRECIENDO",
+    published:false,
   },
 
   {
@@ -911,6 +925,7 @@ const portfolio = [
     tech: ["React Js", "Javascript ", "HTML", "CSS"],
     stage: "EARLY WORK",
     etapa: " COMIENZOS",
+    published:false,
   },
 ];
 

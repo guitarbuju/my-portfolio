@@ -1,3 +1,4 @@
+/* eslint-disable react/prop-types */
 import {content, contenido} from "../../../content";
 import { motion } from "framer-motion";
 
