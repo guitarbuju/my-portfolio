@@ -766,16 +766,17 @@ const portfolio = [
     published:false,
   },
   {
-    img: "https://drive.google.com/file/d/1MpoQZ6KfQ_DsVVwQu3SD68xZp5qOzxQC/view?usp=drive_link",
-    title: "REACT TEST ",
-    desc: `One of the most important  and common things that relates to users are Tests and Surveys on the internet. I believe Tests shouldn't be boring.
-    So I decided to write a test app with pagination with answers on the spot and a final results page `,
-    descripcion: `Una de las cosas más importantes y comunes que se relacionan con los usuarios son las Pruebas y Encuestas en Internet. Creo que las pruebas no deberían ser aburridas.
-    Así que decidí escribir una aplicación de prueba con paginación y respuestas en el acto y una página de resultados finales.`,
-    rating: "3",
+    img: "https://drive.google.com/file/d/1jMsh_nx6AY4-GzXEMttstCh6J6WbsX83/view?usp=drive_link",
+    title: "REACTjs TEST ",
+    desc: `This is a simple app which works as a test for react Js Knowledge. My main reason for writing this app is to practice advanced typescript and profesional Modal Components handling
+    I'm usinf custom hooks , compound components and more `,
+    descripcion: `Esta es una aplicación sencilla que funciona como prueba para React Js .
+    Mi razón principal para escribir esta aplicación es practicar el manejo avanzado de mecanografiado y componentes modales profesionales.
+    Estoy usando Hooks personalizados, componentes compuestos y más.`,
+    rating: "4",
     hub: "https://github.com/guitarbuju",
     cat: "FRONTEND",
-    tech: ["React Js", "Zustand", "React Router", "Javascript ", "Bootstrap"],
+    tech: ["React Js", "Tailwind", "Compound Components","Typescript"],
     stage: "RECENT WORK",
     etapa: " RECIENTE",
     published:false,
