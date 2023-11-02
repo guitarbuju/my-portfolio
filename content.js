@@ -769,9 +769,9 @@ const portfolio = [
     img: "https://drive.google.com/file/d/1jMsh_nx6AY4-GzXEMttstCh6J6WbsX83/view?usp=drive_link",
     title: "REACTjs TEST ",
     desc: `This is a simple app which works as a test for react Js Knowledge. My main reason for writing this app is to practice advanced typescript and profesional Modal Components handling
-    I'm usinf custom hooks , compound components and more `,
+    I'm using custom hooks , compound components and more `,
     descripcion: `Esta es una aplicación sencilla que funciona como prueba para React Js .
-    Mi razón principal para escribir esta aplicación es practicar el manejo avanzado de mecanografiado y componentes modales profesionales.
+    Mi razón principal para escribir esta aplicación es practicar el manejo avanzado de Typescript y componentes modales profesionales.
     Estoy usando Hooks personalizados, componentes compuestos y más.`,
     rating: "4",
     hub: "https://github.com/guitarbuju",
