@@ -676,6 +676,34 @@ const portfolio = [
     stage: "RECENT WORK",
     etapa: "RECIENTE",
     published:true,
+  },{
+    img: "https://drive.google.com/file/d/1DjWplSdzHPhRJbWbWumniBkPOGEEW8CP/view?usp=drive_link",
+    title: "STAR WARS TRADING CARD GAME",
+    desc: `Welcome to the Star Wars Vintage Trading Cards Game App! This project is a React.js-based application that allows users to experience 
+    the thrill of collecting and trading vintage Star Wars trading cards. The app provides a platform for users to mock a deck of cards, purchase 
+    new cards, and automatically fill their virtual album. With immersive footage from the movies, iconic music, and authentic sounds, this app brings
+     the Star Wars universe to life in a unique and engaging way.
+    `,
+    descripcion: `¡Bienvenido a la aplicación del juego Star Wars Vintage Trading Cards! Este proyecto es una aplicación basada en React.js 
+    que permite a los usuarios experimentar la emoción de coleccionar e intercambiar cromos antiguos de Star Wars. La aplicación proporciona 
+    una plataforma para que los usuarios se burlen de una baraja de cartas, compren cartas nuevas y llenen automáticamente su álbum virtual.
+     Con imágenes inmersivas de películas, música icónica y sonidos auténticos, esta aplicación da vida al universo de Star Wars de una manera única y atractiva.`,
+    rating: "5",
+    hub: "https://sw-trading-cards-game.netlify.app/",
+    cat: "FRONTEND",
+    tech: [
+      "React Js",
+      "HTML",
+      "CSS",
+      "Javascript",
+      "React Context",
+      "Framer Motion",
+      "Tailwind CSS",
+      "Daisy UI",
+    ],
+    stage: "RECENT WORK",
+    etapa: "RECIENTE",
+    published:true,
   },
   {
     img: "https://drive.google.com/file/d/1p000ans2ndcIDPaUccFEk7rocKxfAscl/view?usp=drive_link",
