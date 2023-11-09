@@ -686,8 +686,8 @@ const portfolio = [
     `,
     descripcion: `¡Bienvenido a la aplicación del juego Star Wars Vintage Trading Cards! Este proyecto es una aplicación basada en React.js 
     que permite a los usuarios experimentar la emoción de coleccionar e intercambiar cromos antiguos de Star Wars. La aplicación proporciona 
-    una plataforma para que los usuarios se burlen de una baraja de cartas, compren cartas nuevas y llenen automáticamente su álbum virtual.
-     Con imágenes inmersivas de películas, música icónica y sonidos auténticos, esta aplicación da vida al universo de Star Wars de una manera única y atractiva.`,
+    una plataforma para que los usuarios simulen una baraja de cartas, compren cartas nuevas y llenen automáticamente su álbum virtual.
+     Con imágenes inmersivas de la película, música icónica y sonidos auténticos, esta aplicación da vida al universo de Star Wars de una manera única y atractiva.`,
     rating: "5",
     hub: "https://sw-trading-cards-game.netlify.app/",
     cat: "FRONTEND",
