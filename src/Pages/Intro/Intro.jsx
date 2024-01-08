@@ -44,7 +44,7 @@ const Intro = () => {
               JavaScript, React.js, Node.js, Express.js, MongoDB, MySQL,Docker,
               GIT, Postman, Jira
             </p>
-            <Link to='/countdown'>
+            <Link to='/about'>
               <button className="btn btn-outline btn-accent mt-2 rounded-none" >
                 Come in...
               </button>
