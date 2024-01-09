@@ -48,6 +48,7 @@ const Intro = () => {
               <button className="btn btn-outline btn-accent mt-2 rounded-none" >
                 Come in...
               </button>
+             
             </Link>
           </motion.div>
         </div>

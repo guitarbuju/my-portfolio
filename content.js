@@ -332,327 +332,283 @@ export const contenido = [
   },
 ];
 
-const images = [
+export const images = [
   {
     title: "vertigo",
-    url: "https://drive.google.com/file/d/1mwoEq6kWwnvuVkRuMwR_hggI7I1yQIP_/view?usp=drive_link",
+    url: "https://res.cloudinary.com/dfbflavif/image/upload/v1704804075/Portfolio/vertigo.001_cnktcg.jpg",
   },
   {
     title: "formal",
-    url: " https://drive.google.com/uc?export=view&id=1nMSRztPGkSUN_sUT-wtK7P3oB22VUp4I",
+    url: " https://res.cloudinary.com/dfbflavif/image/upload/v1704809949/otras.003_ecb8lj.jpg",
   },
   {
     title: "paisaje",
-    url: "https://drive.google.com/file/d/1D2ebeftUh1tDhmy0IlrGTJ69lLqF2ETq/view?usp=drive_link",
+    url: "https://res.cloudinary.com/dfbflavif/image/upload/v1704809944/otras.002_kelmp3.jpg",
   },
   {
     title: "ali",
-    url: "https://drive.google.com/file/d/1VqbjoRdrI8gaDDiI0Z1KI5x9CczJ7cwk/view?usp=drive_link",
+    url: "https://res.cloudinary.com/dfbflavif/image/upload/v1704809949/otras.001_jbzuud.jpg",
   },
   {
     title: "2001",
-    url: "https://drive.google.com/file/d/1wNSienjnvzMfKPDQkJnYaW5-P7URTxbd/view?usp=drive_link",
+    url: "https://res.cloudinary.com/dfbflavif/image/upload/v1704809943/movies.006_w3n79d.jpg",
   },
   {
     title: "2020",
-    url: "https://drive.google.com/file/d/1rnwPHnEXh-7Oa6aVsWeLttqGPf4_kLMc/view?usp=drive_link",
+    url: "https://res.cloudinary.com/dfbflavif/image/upload/v1704803404/portfolio/movies.003_tzqtj1.jpg",
   },
   {
     title: "mujeres",
-    url: "https://drive.google.com/file/d/1AYINgDoFyS-2cKnNBqM-uKm0WuahI9Nv/view?usp=drive_link",
+    url: "https://res.cloudinary.com/dfbflavif/image/upload/v1704809942/movies.002_xjxyai.jpg",
   },
   {
     title: "marcelo",
-    url: "https://drive.google.com/file/d/1WJwdpbw3Yh_gx1G49JAXfGbRx7xsYvKC/view?usp=drive_link",
+    url: "https://res.cloudinary.com/dfbflavif/image/upload/v1704803425/portfolio/movies.001_pt5cqc.jpg",
   },
   {
     title: "vintage",
-    url: "https://drive.google.com/file/d/1NufuZu4Up_CoHd2pigKbidiHFu1uBX0m/view?usp=drive_link",
+    url: "https://res.cloudinary.com/dfbflavif/image/upload/v1704809940/IG_PORTFOLIO.212_jd8zoo.jpg",
   },
   {
     title: "vintage car",
-    url: "https://drive.google.com/file/d/1ZFQyZXSc_OhHCVUtIZZWdEMlLF5PX7UJ/view?usp=drive_link",
+    url: "https://res.cloudinary.com/dfbflavif/image/upload/v1704809940/IG_PORTFOLIO.209_l6ioo9.jpg",
   },
   {
     title: "space",
-    url: "https://drive.google.com/file/d/1q-2kil0I5BeyIOFFzDQzgolPYfjruYID/view?usp=drive_link",
+    url: "https://res.cloudinary.com/dfbflavif/image/upload/v1704809940/IG_PORTFOLIO.208_yicihm.jpg",
   },
   {
     title: "hippy",
-    url: "https://drive.google.com/file/d/1RctzO0ZiDoFL2qalefilPAtWIfDbX9Oo/view?usp=drive_link",
+    url: "https://res.cloudinary.com/dfbflavif/image/upload/v1704803428/portfolio/IG_PORTFOLIO.168_o8he1k.jpg",
   },
   {
     title: "70s",
-    url: "https://drive.google.com/file/d/1_7C79OaV5cBV-JoQvnS52YfrCmiz6T7m/view?usp=drive_link",
+    url: "https://res.cloudinary.com/dfbflavif/image/upload/v1704803421/portfolio/IG_PORTFOLIO.166_hd1nh7.jpg",
   },
   {
     title: "cool car",
-    url: "https://drive.google.com/file/d/1vxxkfCzTfEwaVZPzbRBrIyS5aVgS5kbD/view?usp=drive_link",
+    url: "https://res.cloudinary.com/dfbflavif/image/upload/v1704813878/IG_PORTFOLIO.163_yh7nlt.jpg",
   },
   {
     title: "once upon",
-    url: "https://drive.google.com/file/d/16wVaOxqTVAmgKXY2svtX6oLMVYo3E6ZV/view?usp=drive_link",
+    url: "https://res.cloudinary.com/dfbflavif/image/upload/v1704809944/once_upon.001_np4i1j.jpg"
   },
   {
     title: "mcqueen",
-    url: "https://drive.google.com/file/d/19bnVrY4piy7W3HUniKO1O_darsAOT93Y/view?usp=drive_link",
+    url: "https://res.cloudinary.com/dfbflavif/image/upload/v1704814015/IG_PORTFOLIO.156_tqab7u.jpg",
   },
   {
     title: "beer",
-    url: "https://drive.google.com/file/d/1eW9T8XV2nzDLQJfXe1hTC0jgAZrHmmM6/view?usp=drive_link",
+    url: "https://res.cloudinary.com/dfbflavif/image/upload/v1704803417/portfolio/IG_PORTFOLIO.130_b4hqva.jpg",
   },
   {
     title: "paulina",
-    url: "https://drive.google.com/file/d/1ncPm9UXicgQ1vyEEj2JfYaTc5YLiYOFn/view?usp=drive_link",
+    url: "https://res.cloudinary.com/dfbflavif/image/upload/v1704803409/portfolio/IG_PORTFOLIO.125_y0nfqy.jpg",
   },
   {
     title: "young paulina",
-    url: "https://drive.google.com/file/d/1YFVEBFyEKtdll_NZGQU7Wq2ceraIQohv/view?usp=drive_link",
+    url: "https://res.cloudinary.com/dfbflavif/image/upload/v1704803424/portfolio/IG_PORTFOLIO.124_uwse4t.jpg",
   },
   {
     title: "cream",
-    url: "https://drive.google.com/file/d/1zKygTTCH8Pwzk5kbBuDPcCQJOs08nksr/view?usp=drive_link",
+    url: "https://res.cloudinary.com/dfbflavif/image/upload/v1704803400/portfolio/IG_PORTFOLIO.129_xn6cne.jpg",
   },
   {
     title: "atari2",
-    url: "https://drive.google.com/file/d/18MvC2LwVPLSNlTxb5jZA0EGNxSBJldhl/view?usp=drive_link",
+    url: "https://res.cloudinary.com/dfbflavif/image/upload/v1704804047/Portfolio/atarinueva.001_h7lzqj.jpg",
   },
   {
     title: "atari3",
-    url: "https://drive.google.com/file/d/1GrhHymkEzM5uIompEit-3ZOBmhVlxXTS/view?usp=drive_link",
+    url: "https://res.cloudinary.com/dfbflavif/image/upload/v1704804046/Portfolio/atarichrome_oyitcs.jpg",
   },
   {
     title: "atari4",
-    url: "https://drive.google.com/file/d/1JRnNdC8so43o2v1vbaCc-Ppqcj28TPG_/view?usp=drive_link",
+    url: "https://res.cloudinary.com/dfbflavif/image/upload/v1704804045/Portfolio/atari2.006_amcwyc.jpg",
   },
   {
     title: "atari5",
-    url: "https://drive.google.com/file/d/1rkVDt6Zfb0xpJbwGJv1rTIY9j3JNGto8/view?usp=drive_link",
+    url: "https://res.cloudinary.com/dfbflavif/image/upload/v1704803435/portfolio/IG_PORTFOLIO.076_gird9f.jpg",
   },
   {
     title: "pila",
-    url: "https://drive.google.com/file/d/1zGO5ScJAOVRTfiqGjjgqmlVIILEMReT9/view?usp=drive_link",
+    url: "https://res.cloudinary.com/dfbflavif/image/upload/v1704804045/Portfolio/atari2.005_m5ema6.jpg",
   },
   {
     title: "avycons2",
-    url: "https://drive.google.com/file/d/1DCJRKuvfGKCTxTjFDumVJh3DEZMlR6o0/view?usp=drive_link",
+    url: "https://res.cloudinary.com/dfbflavif/image/upload/v1704803437/portfolio/IG_PORTFOLIO.071_ncqvfz.jpg",
   },
   {
     title: "avycons3",
-    url: "https://drive.google.com/file/d/1tUZLHT4Lt6s9pfDBcOPkmiYJHxs_PZmf/view?usp=drive_link",
+    url: "https://res.cloudinary.com/dfbflavif/image/upload/v1704803433/portfolio/IG_PORTFOLIO.073_h0saw1.jpg",
   },
   {
     title: "avycons4",
-    url: "https://drive.google.com/file/d/1YnGkuZgFdJMXsEduutnWHH_G-YWoOOUJ/view?usp=drive_link",
+    url: "https://res.cloudinary.com/dfbflavif/image/upload/v1704803431/portfolio/IG_PORTFOLIO.070_jqr5b4.jpg",
   },
   {
     title: "avycons5",
-    url: "https://drive.google.com/file/d/18kyYSGGDDjEB9nsXExjUCxYYaWpx9z_Y/view?usp=drive_link",
+    url: "https://res.cloudinary.com/dfbflavif/image/upload/v1704803424/portfolio/IG_PORTFOLIO.061_jf4gpt.jpg",
   },
   {
     title: "tren",
-    url: "https://drive.google.com/file/d/1ckfDR_DdQw3WqsdyBXJ4n3iZ8DuKh-dy/view?usp=drive_link",
+    url: "https://res.cloudinary.com/dfbflavif/image/upload/v1704803419/portfolio/IG_PORTFOLIO.032_msiyyl.jpg",
   },
   {
     title: "neustart",
-    url: "https://drive.google.com/file/d/1j5ffBvELPvZA9G1L1TtsOhVSrlQ6g6fL/view?usp=drive_link",
+    url: "https://res.cloudinary.com/dfbflavif/image/upload/v1704803413/portfolio/IG_PORTFOLIO.090_tfmchh.jpg",
   },
 
   {
     title: "7claves",
-    url: "https://drive.google.com/file/d/1uIPE99LGb0sZOpGex3aLb1AdOaEZfiO2/view?usp=drive_link",
+    url: "https://res.cloudinary.com/dfbflavif/image/upload/v1704803399/portfolio/IG_PORTFOLIO.143_bfkyhs.jpg",
   },
   {
     title: "exitosas",
-    url: "https://drive.google.com/file/d/1qbdEPNoYJFZBfbCH6BxO1wNYWCRoUACY/view?usp=drive_link",
+    url: "https://res.cloudinary.com/dfbflavif/image/upload/v1704803406/portfolio/IG_PORTFOLIO.142_wb8oqr.jpg",
   },
   {
     title: "mentiroso",
-    url: "https://drive.google.com/file/d/1sooFLvXqjbe3hUypfGmiDSONLVgswyZ8/view?usp=drive_link",
+    url: "https://res.cloudinary.com/dfbflavif/image/upload/v1704803398/portfolio/IG_PORTFOLIO.136_jqafix.jpg",
   },
   {
     title: "iracundo",
-    url: "https://drive.google.com/file/d/1ZA8LPSUSQpCXSyS36ZtMxVlJ8wXjkxct/view?usp=drive_link",
-  },
-  {
-    title: "alemania",
-    url: "https://drive.google.com/file/d/1quNEhGECK2CEJ0bb7JTswWlz74aJpukg/view?usp=drive_link",
-  },
-
-  {
-    title: "coach",
-    url: "https://drive.google.com/file/d/1HJ67YVZ0BmUbOMRjYbFADwSM-xQvrwRx/view?usp=drive_link",
+    url: "https://res.cloudinary.com/dfbflavif/image/upload/v1704803422/portfolio/IG_PORTFOLIO.137_u2tqee.jpg",
   },
   {
     title: "explosive",
-    url: "https://drive.google.com/file/d/1v_xVZi0yAIdUbN1-1rxyk9ftTv3lz15_/view?usp=drive_link",
+    url: "https://res.cloudinary.com/dfbflavif/image/upload/v1704803399/portfolio/IG_PORTFOLIO.143_bfkyhs.jpg",
   },
   {
     title: "simple",
-    url: "https://drive.google.com/file/d/1J6QGqle40gwhe6deRI8EaGCq9TpjKzWn/view?usp=drive_link",
+    url: "https://res.cloudinary.com/dfbflavif/image/upload/v1704803434/portfolio/IG_PORTFOLIO.162_xpgh4m.jpg",
   },
   {
     title: "intransigentes",
-    url: "https://drive.google.com/file/d/1HWZz4qa_8LoDFrllBS9JLPTGEjm8cqRy/view?usp=drive_link",
+    url: "https://res.cloudinary.com/dfbflavif/image/upload/v1704803398/portfolio/IG_PORTFOLIO.169_qumrat.jpg",
   },
   {
     title: "comunista",
-    url: "https://drive.google.com/file/d/14R-QroBG80jpunveaFaSPz-qNQT-5uzi/view?usp=drive_link",
+    url: "https://res.cloudinary.com/dfbflavif/image/upload/v1704803417/portfolio/IG_PORTFOLIO.045_z8gcg0.jpg",
   },
 
   {
     title: "ree",
-    url: "https://drive.google.com/file/d/1nEpx_Ojg7pbVaQhLvwSQzFgoArckBXrj/view?usp=drive_link",
+    url: "https://res.cloudinary.com/dfbflavif/image/upload/v1704803409/portfolio/IG_PORTFOLIO.018_w1p3b7.jpg",
   },
   {
     title: "pilas",
-    url: "https://drive.google.com/file/d/1BxKHrOBCpdAmUF2qvcR2LUvFWQ40UHW0/view?usp=drive_link",
-  },
-  {
-    title: "atairi6",
-    url: "https://drive.google.com/file/d/1v-6jIYsHYDQruuuG-pUUBMcG-hBWBpBI/view?usp=drive_link",
-  },
-  {
-    title: "atari7",
-    url: "https://drive.google.com/file/d/1DgVuWtT_IMtu109xHVdxmNWl90UXohWC/view?usp=drive_link",
+    url: "https://res.cloudinary.com/dfbflavif/image/upload/v1704804069/Portfolio/IG_PORTFOLIO.019_nxfzai.jpg",
   },
   {
     title: "zoilo1",
-    url: "https://drive.google.com/file/d/1m92fWr7-px2hHDMQ0BjS-t4tFsAwyeyt/view?usp=drive_link",
+    url: "https://res.cloudinary.com/dfbflavif/image/upload/v1704815193/ZOILO_ESTEFANO.008_v3zlxy.jpg",
   },
 
   {
     title: "zoilo2",
-    url: "https://drive.google.com/file/d/1XUNQUMPu4V8Pqhe68krR-IXWpKqm3PTI/view?usp=drive_link",
+    url: "https://res.cloudinary.com/dfbflavif/image/upload/v1704815191/ZOILO_ESTEFANO.007_ayczss.jpg",
   },
   {
     title: "zoilo3",
-    url: "https://drive.google.com/file/d/1YlOOKBqynpckHmyuYPDs1nkfOU6iZRrR/view?usp=drive_link",
+    url: "https://res.cloudinary.com/dfbflavif/image/upload/v1704815190/ZOILO_ESTEFANO.006_cqjpxl.jpg",
   },
   {
     title: "zoilo4",
-    url: "https://drive.google.com/file/d/1V6dC1Z7PM7-h171epFG28HeC6xPjAPC0/view?usp=drive_link",
+    url: "https://res.cloudinary.com/dfbflavif/image/upload/v1704815188/ZOILO_ESTEFANO.005_trlotr.jpg",
   },
   {
     title: "zoilo5",
-    url: "https://drive.google.com/file/d/1s3akKe3UCT387QnoBCi6L0JVjV-4JclG/view?usp=drive_link",
+    url: "https://res.cloudinary.com/dfbflavif/image/upload/v1704815186/ZOILO_ESTEFANO.004_jhqlie.jpg"
   },
   {
     title: "zoilo6",
-    url: "https://drive.google.com/file/d/1eS9H4djfeiec4EocYTyvyuPZGTe5dvkf/view?usp=drive_link",
+    url: "https://res.cloudinary.com/dfbflavif/image/upload/v1704815184/ZOILO_ESTEFANO.002_s7oyrw.jpg",
   },
 
   {
     title: "zoilo7",
-    url: "https://drive.google.com/file/d/1qNTbZ25AhJcJ5CktfEpsJJa2lYxvHu48/view?usp=drive_link",
+    url: "https://res.cloudinary.com/dfbflavif/image/upload/v1704815183/ZOILO_ESTEFANO.001_kne0uc.jpg",
   },
   {
     title: "zoilo8",
-    url: "https://drive.google.com/file/d/10Jk51MdisoysBq-Og_BVHCVGtSSJ_Xep/view?usp=drive_link",
-  },
-  {
-    title: "zoilo9",
-    url: "https://drive.google.com/file/d/1Fp9ONBMvL_EBKfmaAID1WUSKpjEDts1Z/view?usp=drive_link",
-  },
+    url: "https://res.cloudinary.com/dfbflavif/image/upload/v1704815181/ZOILITO_RECUERDITOS.001_txwyfw.jpg"},
   {
     title: "velvet",
-    url: "https://drive.google.com/file/d/1jrHsHaBrKicQtKzFlIWBC-4CGj9gPl3L/view?usp=drive_link",
+    url: "https://res.cloudinary.com/dfbflavif/image/upload/v1704815179/velvet.002_l5ztlm.jpg",
   },
   {
     title: "roja",
-    url: "https://drive.google.com/file/d/1hq9o462CF2kqdYauKXoIDWMrnXq1iKO_/view?usp=drive_link",
+    url: "https://res.cloudinary.com/dfbflavif/image/upload/v1704815178/velvet.001_eyv0n9.jpg",
   },
   {
     title: "teq",
-    url: "https://drive.google.com/file/d/1FXiKI0GNBBlzZBMAJ73zUC-ZaqFaMyrR/view?usp=drive_link",
+    url: "https://res.cloudinary.com/dfbflavif/image/upload/v1704815176/NUEVAS_MAS_PRO.003_ikjjdv.jpg",
   },
 
   {
     title: "vene",
-    url: "https://drive.google.com/file/d/10M2b0SIlMC3tJzj4mKpPNjB1IA3x45ip/view?usp=drive_link",
+    url: "https://res.cloudinary.com/dfbflavif/image/upload/v1704815174/NUEVAS_MAS_PRO.002_bs6kpd.jpg",
   },
   {
     title: "lasagna",
-    url: "https://drive.google.com/file/d/12wK0el7N-KMXyZ6oOTIASgf440yzTabs/view?usp=drive_link",
+    url: "https://res.cloudinary.com/dfbflavif/image/upload/v1704815173/NUEVAS_MAS_PRO.001_pmmqqx.jpg",
   },
   {
     title: "sophia",
-    url: "https://drive.google.com/file/d/1wqEaATZtTowNDfDoUWOpJZbanYbRqo7J/view?usp=drive_link",
+    url: "https://res.cloudinary.com/dfbflavif/image/upload/v1704815171/conchi_sophia_loren.001_yeketc.jpg",
   },
   {
     title: "empanada",
-    url: "https://drive.google.com/file/d/12JO_XLIqc63rWrjjn1rDUNc4OCC0I1q2/view?usp=drive_link",
+    url: "https://res.cloudinary.com/dfbflavif/image/upload/v1704815169/conchi_personajes.005_uwl2d7.jpg",
   },
 
   {
     title: "arepa1",
-    url: "https://drive.google.com/file/d/1gfKt79Q_C6GO0PzKWOznkTzPjPNIptJO/view?usp=drive_link",
+    url: "https://res.cloudinary.com/dfbflavif/image/upload/v1704815167/conchi_personajes.004_c2stfs.jpg",
   },
   {
     title: "playa",
-    url: "https://drive.google.com/file/d/1HI3Z2rGsSmEPCjkKnRYZKVUWm4j3egx3/view?usp=drive_link",
-  },
-  {
-    title: "espanola",
-    url: "https://drive.google.com/file/d/1hXjM7XoZ3h-iMxz_eNjZXUJvFBaebfXZ/view?usp=drive_link",
-  },
-  {
-    title: "espanol",
-    url: "https://drive.google.com/file/d/1XKyspPn-ZGpVB-npgtFfwoDWae1YaQJx/view?usp=drive_link",
+    url: "https://res.cloudinary.com/dfbflavif/image/upload/v1704815165/conchi_personajes.003_wxexrg.jpg",
   },
   {
     title: "gilberto1",
-    url: "https://drive.google.com/file/d/1h5Xlg2g3oQ3b7Y8ghbl5rF9EbFdWDmaP/view?usp=drive_link",
+    url: "https://res.cloudinary.com/dfbflavif/image/upload/v1704804052/Portfolio/gilberto.005_luhhs2.png",
   },
   {
     title: "gilberto2",
-    url: "https://drive.google.com/file/d/176dz-BwTYXhhN5jEkq6-rzfMUBCNfdG5/view?usp=drive_link",
+    url: "https://res.cloudinary.com/dfbflavif/image/upload/v1704804052/Portfolio/gilberto.003_g65nb6.png",
   },
   {
     title: "gilberto3",
-    url: "https://drive.google.com/file/d/1i4Rv_8JQNt1vMRl9Lu9OrpTMWN4v_md4/view?usp=drive_link",
+    url: "https://res.cloudinary.com/dfbflavif/image/upload/v1704804052/Portfolio/gilberto.003_g65nb6.png",
   },
   {
     title: "gilberto4",
-    url: "https://drive.google.com/file/d/17ZdFhm5AYmttjunRHUtSCbGSuZqjSUOn/view?usp=drive_link",
-  },
-  {
-    title: "ernesto",
-    url: "https://drive.google.com/file/d/1dibad_GDlLC28qZ_1jKZ2zQ5c9-FfOlL/view?usp=drive_link",
-  },
-  {
-    title: "ernesto2",
-    url: "https://drive.google.com/file/d/1QU6tQ0pcET-H7JhOuINuXY5ENvrRyy1X/view?usp=drive_link",
+    url: "https://res.cloudinary.com/dfbflavif/image/upload/v1704803416/portfolio/gilberto.001_zaxynp.png",
   },
   {
     title: "sisteam",
-    url: "https://drive.google.com/file/d/1SjnVKWe7lffJrRHa9OS10AT8sl3qEH4n/view?usp=drive_link",
+    url: "https://res.cloudinary.com/dfbflavif/image/upload/v1704803427/portfolio/IG_PORTFOLIO.089_fmewdt.jpg",
   },
   {
     title: "sisteam2",
-    url: "https://drive.google.com/file/d/18ViN6m_AR_pdmO9DTlEmwY7BhqJWMcrZ/view?usp=drive_link",
+    url: "https://res.cloudinary.com/dfbflavif/image/upload/v1704809943/movies.005_tzlvlh.jpg",
   },
   {
     title: "sisteam3",
-    url: "https://drive.google.com/file/d/1nu1WPARvtBL2SyxZo8UEH_ZIs8TwaVqE/view?usp=drive_link",
+    url: "https://res.cloudinary.com/dfbflavif/image/upload/v1704809941/Inteli1_qizyt6.jpg",
   },
   {
     title: "sisteam4",
-    url: "https://drive.google.com/file/d/1BoMSIbSi3sqXvDpL0H3tYPYvNgVfrob3/view?usp=drive_link",
+    url: "https://res.cloudinary.com/dfbflavif/image/upload/v1704804073/Portfolio/IG_PORTFOLIO.028_vdop7a.jpg",
   },
 ];
 
-export const modifiedImages = images.map((image, index) => ({
-  ...image,
-  id: index,
-  url: image.url
-    .replace("/view?usp=drive_link", "")
-    .replace("/file/d/", "/uc?export=view&id="),
-}));
 
-const portfolio = [
+
+export const portfolio = [
   {
-    img: "https://drive.google.com/file/d/1spIe2jKm3jV0agRNtAXa3ZwlqsO_TOh6/view?usp=drive_link",
+    img: "https://res.cloudinary.com/dfbflavif/image/upload/v1704809949/cinerama._001_igrnkc.png",
     title: "CINERAMA",
     desc: `Cinerama is your ultimate destination for serious moviegoers. This page offers 
     a seamless experience where you can not only purchase movie tickets but also customize your popcorn combos, 
@@ -677,7 +633,7 @@ const portfolio = [
     etapa: "RECIENTE",
     published:true,
   },{
-    img: "https://drive.google.com/file/d/1DjWplSdzHPhRJbWbWumniBkPOGEEW8CP/view?usp=drive_link",
+    img: "https://res.cloudinary.com/dfbflavif/image/upload/v1704809948/star_wars_cover_vknbvf.png",
     title: "STAR WARS TRADING CARD GAME",
     desc: `Welcome to the Star Wars Vintage Trading Cards Game App! This project is a React.js-based application that allows users to experience 
     the thrill of collecting and trading vintage Star Wars trading cards. The app provides a platform for users to mock a deck of cards, purchase 
@@ -706,7 +662,7 @@ const portfolio = [
     published:true,
   },
   {
-    img: "https://drive.google.com/file/d/1p000ans2ndcIDPaUccFEk7rocKxfAscl/view?usp=drive_link",
+    img: "https://res.cloudinary.com/dfbflavif/image/upload/v1704803398/portfolio/fancycar_pic_otgwpb.png",
     title: "FANCYCAR",
     desc: `At Fancycar.com, we specialize in curating the finest collection of vintage and luxury cars from legendary manufacturers like Lamborghini, Ferrari, Maserati, Porsche, Bugatti, Aston Martin, Mclaren and more. If you are a discerning enthusiast looking to own a piece of automotive history, you've come to the right place.`,
     descripcion: `En Fancycar.com, nos especializamos en seleccionar la mejor colección de autos clàsicos deportivos  y de colecciòn de fabricantes legendarios como Lamborghini, Ferrari, Maserati, Porsche, Bugatti, Aston Martin, Mclaren y más. Si Ud. es un entusiasta exigente que busca poseer un trozo de la historia del automóvil, ha venido al lugar correcto.`,
@@ -729,7 +685,7 @@ const portfolio = [
     published:true,
   },
   {
-    img: "https://drive.google.com/file/d/1mu_VewPpOxEY3unBVJAQY-0Df7eFTm1N/view?usp=drive_link",
+    img: "https://res.cloudinary.com/dfbflavif/image/upload/v1704809942/mego_jelt9x.png",
     title: "MEGO TOY STORE",
     desc: "This is a Online store mock for a famous 70s - 80s toy company called MEGO. I'm using React JS, Zustand, Taiwind css, Daisy Ui, framer motion amd more",
     descripcion: `Este es un simulacro de tienda en línea para una famosa compañía de juguetes de los años 70 y 80 llamada MEGO. Estoy usando React JS, Zustand, Tailwind css, Daisyui, framer motion y más`,
@@ -751,7 +707,7 @@ const portfolio = [
     published:true,
   },
   {
-    img: "https://drive.google.com/file/d/1yxYt6yvb-Cyj8Plckiye8BBgz4Bocxw5/view?usp=drive_link",
+    img: "https://res.cloudinary.com/dfbflavif/image/upload/v1704809946/Screenshot_2023-06-25_at_21.19.22_q7tjoq.png",
     title: "TODOAPP LIST",
     desc: `Meet our unassuming yet brilliant todo list app. Beyond its apparent simplicity lies a creation that not only 
     meets but exceeds the rigorous standards set by the MERN STACK TFM in my boot camp. This is no ordinary app; it's a symphony o
@@ -781,7 +737,7 @@ const portfolio = [
     published:false,
   },
   {
-    img: "https://drive.google.com/file/d/1mi8GMiuhwQmPf-AD_x5QjyksgLMqcl7C/view?usp=drive_link",
+    img: "https://res.cloudinary.com/dfbflavif/image/upload/v1704809945/pokeapi_qpztsz.png",
     title: "POKEMON API",
     desc: "Not written with the famous public API but is pretty cool, it has random images , and different routing, navigation, and pagination. Zustand React Router and some imagination",
     descripcion: `No está escrito con la famosa API pública, pero es genial, tiene imágenes aleatorias y diferentes rutas, navegación y paginación. Zustand React Router y algo de imaginación`,
@@ -794,7 +750,7 @@ const portfolio = [
     published:false,
   },
   {
-    img: "https://drive.google.com/file/d/1jMsh_nx6AY4-GzXEMttstCh6J6WbsX83/view?usp=drive_link",
+    img: "https://res.cloudinary.com/dfbflavif/image/upload/v1704809941/jReactjs-test_ypdgmo.png",
     title: "REACTjs TEST ",
     desc: `This is a simple app which works as a test for react Js Knowledge. My main reason for writing this app is to practice advanced typescript and profesional Modal Components handling
     I'm using custom hooks , compound components and more `,
@@ -810,7 +766,7 @@ const portfolio = [
     published:false,
   },
   {
-    img: "https://drive.google.com/file/d/157yO83z6K-1pl21PNyenLgrMD8YkmQzU/view?usp=drive_link",
+    img: "https://res.cloudinary.com/dfbflavif/image/upload/v1704809944/onepiece_lpuhwo.png",
     title: "ONEPIECE SLUT MACHINE",
     desc: `In a realm where creativity knows no bounds, I set out to chart a course into uncharted 
     territory – my very first React project. Devoid of tutorials and pretentiousness, this project 
@@ -830,7 +786,7 @@ const portfolio = [
   },
 
   {
-    img: "https://drive.google.com/file/d/1CouBzr_NgcibzavH3WPmxzPoYhArDuHv/view?usp=drive_link",
+    img: "https://res.cloudinary.com/dfbflavif/image/upload/v1704809946/Screenshot_2023-08-16_at_13.18.39_kc4gvi.png",
     title: "JS MOVIE API",
     desc: " Here is a movie list API Simple yet clever vanilla JS app for practicing fetch and pagination",
     descripcion: `Esta es una API de lista de películas. Aplicación JS simple pero inteligente para practicar búsqueda y paginación.`,
@@ -844,7 +800,7 @@ const portfolio = [
   },
 
   {
-    img: "https://drive.google.com/file/d/1nkLVMPwRFqjVyJ47IkATbyJtbmHYrnti/view?usp=drive_link",
+    img: "https://res.cloudinary.com/dfbflavif/image/upload/v1704809947/Screenshot_2023-08-16_at_18.54.21_ttl65l.png",
     title: "KITTY - FORM",
     desc: "A simple fullstack app with express js and mysql. The idea behind it is to learn React Router and mySQL",
     descripcion: `Una sencilla aplicación fullstack con express js y mysql. La idea detrás de esto es aprender React Router y mySQL`,
@@ -867,7 +823,7 @@ const portfolio = [
   },
 
   {
-    img: "https://drive.google.com/file/d/1oSXe6mVeE4K5ajio72um763vRHiYQ7-H/view?usp=drive_link",
+    img: "https://res.cloudinary.com/dfbflavif/image/upload/v1704809948/sisteam_wix_pmxeod.png",
     title: "SISTEAM INSTITUTO ",
     desc: "Here is my first attempt at developing a web site. Wix is not as common as Wordpress but definitely is more user friendly and has cooler features",
     descripcion: `Aqui esta mi primer intento de desarrollar un sitio web. Wix no es tan común como Wordpress, pero definitivamente es más fácil de usar y tiene características más geniales.`,
@@ -880,7 +836,7 @@ const portfolio = [
     published:false,
   },
   {
-    img: "https://drive.google.com/file/d/1LazTycZyS4DfiRtS8XKsKVbgnpgLaHHt/view?usp=drive_link",
+    img: "https://res.cloudinary.com/dfbflavif/image/upload/v1704809942/Kilingon_dice_p5gty1.png",
     title: "START TREK Klingon Dice ",
     desc: `This is actually a pretty cool app. You can select a hero and the system will randomly select a foe. the idea is to play street dice
     and compete against the computer`,
@@ -895,7 +851,7 @@ const portfolio = [
     published:false,
   },
   {
-    img: "https://drive.google.com/file/d/1rj95GgBuUO6fjj545QVm2uEtP44Rxb4V/view?usp=drive_link",
+    img: "https://res.cloudinary.com/dfbflavif/image/upload/v1704809946/robocop_acokv1.png",
     title: "ROBOCOP CONSOLE ",
     desc: `I wanted to go beyond a simple to-do app so i wrote this funny Robocop themed app. It is a Fullstack project but it doesn´t have any BD-
      It plays randon movie sounds on submit , it even plays the movie's main theme`,
@@ -911,7 +867,7 @@ const portfolio = [
     published:false,
   },
   {
-    img: "https://drive.google.com/file/d/17jbwi2VBglnFwSCZFcCnPVfzKeKqBick/view?usp=drive_link",
+    img: "https://res.cloudinary.com/dfbflavif/image/upload/v1704817955/joker_calc_gxeqzd.png",
     title: "JOKER CALCULATOR ",
     desc: `This a simple vanilla JS calculator which is handled with the EVAL() method. I wanted to make it cooler
     by using the joker theme, it can reproduce a laughter sound when clicked the equal button`,
@@ -926,7 +882,7 @@ const portfolio = [
     published:false,
   },
   {
-    img: "https://drive.google.com/file/d/1d7_oXGacOkL_6u2xfUYH40yESfMLzNDV/view?usp=drive_link",
+    img: "https://res.cloudinary.com/dfbflavif/image/upload/v1704817925/yoda_sq9b8t.png",
     title: "ASK A JEDI MASTER ",
     desc: `I love Star Wars so I wanted to build something with that theme. This app triggers a fetch request to a 
     free public quotes API. My main goal writing this app is to learn fetch and asyncronous javascript`,
@@ -942,7 +898,7 @@ const portfolio = [
   },
 
   {
-    img: "https://drive.google.com/file/d/1JHUlLYzyEjrTLpa_izLQme0De5rRuYxi/view?usp=drive_link",
+    img: "https://res.cloudinary.com/dfbflavif/image/upload/v1704803397/portfolio/calculator_e4ly7e.png",
     title: "REACT CALCULATOR ",
     desc: `A simple but nice looking calculator written with React Js. It uses the EVAL() method for calculations. The colors and theme were chosen to match
     my school's `,
@@ -958,10 +914,10 @@ const portfolio = [
   },
 ];
 
-export const modifiedPortfolio = portfolio.map((e, index) => ({
-  ...e,
-  id: index,
-  img: e.img
-    .replace("/view?usp=drive_link", "")
-    .replace("/file/d/", "/uc?export=view&id="),
-}));
+// export const modifiedPortfolio = portfolio.map((e, index) => ({
+//   ...e,
+//   id: index,
+//   img: e.img
+//     .replace("/view?usp=drive_link", "")
+//     .replace("/file/d/", "/uc?export=view&id="),
+// }));
