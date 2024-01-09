@@ -1,5 +1,5 @@
 import { useEffect } from "react";
-import { modifiedImages } from "../../../content";
+import { images } from "../../../content";
 import { motion, AnimatePresence } from "framer-motion";
 import { Link } from "react-router-dom";
 const Portfolio = () => {
@@ -45,7 +45,7 @@ const Portfolio = () => {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 2 }}
         >
-          {modifiedImages.map((image) => (
+          {images.map((image) => (
             <motion.div
               key={image.id}
               whileHover={{

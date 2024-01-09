@@ -1,13 +1,13 @@
 /* eslint-disable react/prop-types */
-import { modifiedPortfolio } from "../../../content";
+import { portfolio } from "../../../content";
 import { motion } from "framer-motion";
 import Rating from './Rating'
 
 const Card4 = ({language}) => {
-  console.log(modifiedPortfolio);
+  console.log(portfolio);
   return (
     <div className="flex flex-col">
-      {modifiedPortfolio.map((e, index) => {
+      {portfolio.map((e, index) => {
         return (
           <motion.div
             className="  flex flew-row text-xs gap-6 ml-20 mt-4 rounded-xl p-2.5"
