@@ -10,6 +10,7 @@ const Intro = () => {
           <div className="flex gap-4">
             <AnimatePresence>
               <motion.div
+                className="w-32 sm:w-52"
                 initial={{ y: -1000, opacity: 0 }}
                 animate={{ y: 0, opacity: 1 }}
                 exit={{ y: 1000, opacity: 0 }}
@@ -20,7 +21,7 @@ const Intro = () => {
                   delay: 0.8,
                 }}
               >
-                <img  className="w-52"
+                <img  
                   src={JsLogo}
                 />
               </motion.div>
@@ -31,7 +32,7 @@ const Intro = () => {
             animate={{ scale: 1, opacity: 1 }}
             transition={{ duration: 1 }}
           >
-            <h1 className="text-5xl underline mt-4  font-bold" style={{color:'#5be2cd '}}>
+            <h1 className="text-4xl sm:text-5xl underline mt-4  font-bold" style={{color:'#5be2cd '}}>
               gerardoMadridDev
             </h1>
           </motion.div>
