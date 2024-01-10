@@ -634,7 +634,7 @@ export const portfolio = [
     published:true,
   },{
     img: "https://res.cloudinary.com/dfbflavif/image/upload/v1704809948/star_wars_cover_vknbvf.png",
-    title: "STAR WARS TRADING CARD GAME",
+    title: "SW CARD TRADER",
     desc: `Welcome to the Star Wars Vintage Trading Cards Game App! This project is a React.js-based application that allows users to experience 
     the thrill of collecting and trading vintage Star Wars trading cards. The app provides a platform for users to mock a deck of cards, purchase 
     new cards, and automatically fill their virtual album. With immersive footage from the movies, iconic music, and authentic sounds, this app brings
