@@ -736,19 +736,19 @@ export const portfolio = [
     etapa: " RECIENTE",
     published:false,
   },
-  {
-    img: "https://res.cloudinary.com/dfbflavif/image/upload/v1704809945/pokeapi_qpztsz.png",
-    title: "POKEMON API",
-    desc: "Not written with the famous public API but is pretty cool, it has random images , and different routing, navigation, and pagination. Zustand React Router and some imagination",
-    descripcion: `No está escrito con la famosa API pública, pero es genial, tiene imágenes aleatorias y diferentes rutas, navegación y paginación. Zustand React Router y algo de imaginación`,
-    rating: "5",
-    hub: "https://github.com/guitarbuju",
-    cat: "FRONTEND",
-    tech: ["React Js", "HTML", "CSS", "Javascript", "Bootstrap"],
-    stage: "RECENT WORK",
-    etapa: " RECIENTE",
-    published:false,
-  },
+  // {
+  //   img: "https://res.cloudinary.com/dfbflavif/image/upload/v1704809945/pokeapi_qpztsz.png",
+  //   title: "POKEMON API",
+  //   desc: "Not written with the famous public API but is pretty cool, it has random images , and different routing, navigation, and pagination. Zustand React Router and some imagination",
+  //   descripcion: `No está escrito con la famosa API pública, pero es genial, tiene imágenes aleatorias y diferentes rutas, navegación y paginación. Zustand React Router y algo de imaginación`,
+  //   rating: "5",
+  //   hub: "https://github.com/guitarbuju",
+  //   cat: "FRONTEND",
+  //   tech: ["React Js", "HTML", "CSS", "Javascript", "Bootstrap"],
+  //   stage: "RECENT WORK",
+  //   etapa: " RECIENTE",
+  //   published:false,
+  // },
   {
     img: "https://res.cloudinary.com/dfbflavif/image/upload/v1704809941/jReactjs-test_ypdgmo.png",
     title: "REACTjs TEST ",
@@ -765,25 +765,25 @@ export const portfolio = [
     etapa: " RECIENTE",
     published:false,
   },
-  {
-    img: "https://res.cloudinary.com/dfbflavif/image/upload/v1704809944/onepiece_lpuhwo.png",
-    title: "ONEPIECE SLUT MACHINE",
-    desc: `In a realm where creativity knows no bounds, I set out to chart a course into uncharted 
-    territory – my very first React project. Devoid of tutorials and pretentiousness, this project 
-    was born from the depths of my imagination and translated into code, an ode to the unbridled spirit 
-    of invention.`,
-    descripcion: `En un mundo donde la creatividad no tiene límites, me dispuse a trazar un curso en 
-    territorio desconocido para mi– mi primer proyecto React. Desprovisto de tutoriales y pretensiones, 
-    este proyecto nació de lo más profundo de mi imaginación y se tradujo en código, una oda al espíritu desenfrenado
-    de invención.`,
-    rating: "5",
-    hub: "https://github.com/guitarbuju",
-    cat: "FRONTEND",
-    tech: ["React Js", "HTML", "CSS", "Javascript"],
-    stage: "EARLY WORK",
-    etapa: "COMIENZOS",
-    published:false,
-  },
+  // {
+  //   img: "https://res.cloudinary.com/dfbflavif/image/upload/v1704809944/onepiece_lpuhwo.png",
+  //   title: "ONEPIECE SLUT MACHINE",
+  //   desc: `In a realm where creativity knows no bounds, I set out to chart a course into uncharted 
+  //   territory – my very first React project. Devoid of tutorials and pretentiousness, this project 
+  //   was born from the depths of my imagination and translated into code, an ode to the unbridled spirit 
+  //   of invention.`,
+  //   descripcion: `En un mundo donde la creatividad no tiene límites, me dispuse a trazar un curso en 
+  //   territorio desconocido para mi– mi primer proyecto React. Desprovisto de tutoriales y pretensiones, 
+  //   este proyecto nació de lo más profundo de mi imaginación y se tradujo en código, una oda al espíritu desenfrenado
+  //   de invención.`,
+  //   rating: "5",
+  //   hub: "https://github.com/guitarbuju",
+  //   cat: "FRONTEND",
+  //   tech: ["React Js", "HTML", "CSS", "Javascript"],
+  //   stage: "EARLY WORK",
+  //   etapa: "COMIENZOS",
+  //   published:false,
+  // },
 
   {
     img: "https://res.cloudinary.com/dfbflavif/image/upload/v1704809946/Screenshot_2023-08-16_at_13.18.39_kc4gvi.png",
@@ -835,83 +835,83 @@ export const portfolio = [
     etapa: "COMIENZOS",
     published:false,
   },
-  {
-    img: "https://res.cloudinary.com/dfbflavif/image/upload/v1704809942/Kilingon_dice_p5gty1.png",
-    title: "START TREK Klingon Dice ",
-    desc: `This is actually a pretty cool app. You can select a hero and the system will randomly select a foe. the idea is to play street dice
-    and compete against the computer`,
-    descripcion: `Esta  es en realidad una aplicación muy buena. Puedes seleccionar un héroe y el sistema seleccionará aleatoriamente un enemigo.
-     la idea es jugar a los dados callejeros y competir contra la computadora`,
-    rating: "4",
-    hub: "https://github.com/guitarbuju",
-    cat: "FRONTEND",
-    tech: ["React Js", "HTML", "CSS", "Javascript"],
-    stage: "EARLY WORK",
-    etapa: "COMIENZOS",
-    published:false,
-  },
-  {
-    img: "https://res.cloudinary.com/dfbflavif/image/upload/v1704809946/robocop_acokv1.png",
-    title: "ROBOCOP CONSOLE ",
-    desc: `I wanted to go beyond a simple to-do app so i wrote this funny Robocop themed app. It is a Fullstack project but it doesn´t have any BD-
-     It plays randon movie sounds on submit , it even plays the movie's main theme`,
-    descripcion: `Quería ir más allá de una simple aplicación de tareas pendientes, así que escribí esta divertida aplicación temática de Robocop. 
-    Es un proyecto Fullstack pero no tiene ningún BD-
-    Reproduce sonidos aleatorios de disparos y dialogos al enviar e incluso reproduce el tema principal de la película.`,
-    rating: "5",
-    hub: "https://github.com/guitarbuju",
-    cat: "FULLSTACK",
-    tech: ["React Js", "HTML", "CSS", "Javascript", "Express Js"],
-    stage: "SOPHOMORE",
-    etapa: "CRECIENDO",
-    published:false,
-  },
-  {
-    img: "https://res.cloudinary.com/dfbflavif/image/upload/v1704817955/joker_calc_gxeqzd.png",
-    title: "JOKER CALCULATOR ",
-    desc: `This a simple vanilla JS calculator which is handled with the EVAL() method. I wanted to make it cooler
-    by using the joker theme, it can reproduce a laughter sound when clicked the equal button`,
-    descripcion: `Esta es una calculadora JS simple que se maneja con el método EVAL(). Quería hacerlo más fresco
-    al usar el tema del Joker, puede reproducir un sonido de risa cuando se hace clic en el botón igual`,
-    rating: "4",
-    hub: "https://github.com/guitarbuju",
-    cat: "FRONTEND",
-    tech: ["HTML", "CSS", "Javascript "],
-    stage: "SOPHOMORE",
-    etapa: "CRECIENDO",
-    published:false,
-  },
-  {
-    img: "https://res.cloudinary.com/dfbflavif/image/upload/v1704817925/yoda_sq9b8t.png",
-    title: "ASK A JEDI MASTER ",
-    desc: `I love Star Wars so I wanted to build something with that theme. This app triggers a fetch request to a 
-    free public quotes API. My main goal writing this app is to learn fetch and asyncronous javascript`,
-    descripcion: `Me encanta Star Wars, así que quería construir algo con ese tema. Esta aplicación activa una solicitud de búsqueda para un
-    API publica gratuita de dichos . Mi objetivo principal al escribir esta aplicación es aprender a hacer requisiciones y javascript asíncrono`,
-    rating: "3",
-    hub: "https://github.com/guitarbuju",
-    cat: "FRONTEND",
-    tech: ["HTML", "CSS", "Javascript "],
-    stage: "SOPHOMORE",
-    etapa: "CRECIENDO",
-    published:false,
-  },
+  // {
+  //   img: "https://res.cloudinary.com/dfbflavif/image/upload/v1704809942/Kilingon_dice_p5gty1.png",
+  //   title: "START TREK Klingon Dice ",
+  //   desc: `This is actually a pretty cool app. You can select a hero and the system will randomly select a foe. the idea is to play street dice
+  //   and compete against the computer`,
+  //   descripcion: `Esta  es en realidad una aplicación muy buena. Puedes seleccionar un héroe y el sistema seleccionará aleatoriamente un enemigo.
+  //    la idea es jugar a los dados callejeros y competir contra la computadora`,
+  //   rating: "4",
+  //   hub: "https://github.com/guitarbuju",
+  //   cat: "FRONTEND",
+  //   tech: ["React Js", "HTML", "CSS", "Javascript"],
+  //   stage: "EARLY WORK",
+  //   etapa: "COMIENZOS",
+  //   published:false,
+  // },
+  // {
+  //   img: "https://res.cloudinary.com/dfbflavif/image/upload/v1704809946/robocop_acokv1.png",
+  //   title: "ROBOCOP CONSOLE ",
+  //   desc: `I wanted to go beyond a simple to-do app so i wrote this funny Robocop themed app. It is a Fullstack project but it doesn´t have any BD-
+  //    It plays randon movie sounds on submit , it even plays the movie's main theme`,
+  //   descripcion: `Quería ir más allá de una simple aplicación de tareas pendientes, así que escribí esta divertida aplicación temática de Robocop. 
+  //   Es un proyecto Fullstack pero no tiene ningún BD-
+  //   Reproduce sonidos aleatorios de disparos y dialogos al enviar e incluso reproduce el tema principal de la película.`,
+  //   rating: "5",
+  //   hub: "https://github.com/guitarbuju",
+  //   cat: "FULLSTACK",
+  //   tech: ["React Js", "HTML", "CSS", "Javascript", "Express Js"],
+  //   stage: "SOPHOMORE",
+  //   etapa: "CRECIENDO",
+  //   published:false,
+  // },
+  // {
+  //   img: "https://res.cloudinary.com/dfbflavif/image/upload/v1704817955/joker_calc_gxeqzd.png",
+  //   title: "JOKER CALCULATOR ",
+  //   desc: `This a simple vanilla JS calculator which is handled with the EVAL() method. I wanted to make it cooler
+  //   by using the joker theme, it can reproduce a laughter sound when clicked the equal button`,
+  //   descripcion: `Esta es una calculadora JS simple que se maneja con el método EVAL(). Quería hacerlo más fresco
+  //   al usar el tema del Joker, puede reproducir un sonido de risa cuando se hace clic en el botón igual`,
+  //   rating: "4",
+  //   hub: "https://github.com/guitarbuju",
+  //   cat: "FRONTEND",
+  //   tech: ["HTML", "CSS", "Javascript "],
+  //   stage: "SOPHOMORE",
+  //   etapa: "CRECIENDO",
+  //   published:false,
+  // },
+  // {
+  //   img: "https://res.cloudinary.com/dfbflavif/image/upload/v1704817925/yoda_sq9b8t.png",
+  //   title: "ASK A JEDI MASTER ",
+  //   desc: `I love Star Wars so I wanted to build something with that theme. This app triggers a fetch request to a 
+  //   free public quotes API. My main goal writing this app is to learn fetch and asyncronous javascript`,
+  //   descripcion: `Me encanta Star Wars, así que quería construir algo con ese tema. Esta aplicación activa una solicitud de búsqueda para un
+  //   API publica gratuita de dichos . Mi objetivo principal al escribir esta aplicación es aprender a hacer requisiciones y javascript asíncrono`,
+  //   rating: "3",
+  //   hub: "https://github.com/guitarbuju",
+  //   cat: "FRONTEND",
+  //   tech: ["HTML", "CSS", "Javascript "],
+  //   stage: "SOPHOMORE",
+  //   etapa: "CRECIENDO",
+  //   published:false,
+  // },
 
-  {
-    img: "https://res.cloudinary.com/dfbflavif/image/upload/v1704803397/portfolio/calculator_e4ly7e.png",
-    title: "REACT CALCULATOR ",
-    desc: `A simple but nice looking calculator written with React Js. It uses the EVAL() method for calculations. The colors and theme were chosen to match
-    my school's `,
-    descripcion: `Una calculadora simple pero bonita escrita con React Js. Utiliza el método EVAL() para los cálculos. Los colores y el tema fueron elegidos para combinar
-    la de mi escuela`,
-    rating: "3",
-    hub: "https://github.com/guitarbuju",
-    cat: "FRONTEND",
-    tech: ["React Js", "Javascript ", "HTML", "CSS"],
-    stage: "EARLY WORK",
-    etapa: " COMIENZOS",
-    published:false,
-  },
+  // {
+  //   img: "https://res.cloudinary.com/dfbflavif/image/upload/v1704803397/portfolio/calculator_e4ly7e.png",
+  //   title: "REACT CALCULATOR ",
+  //   desc: `A simple but nice looking calculator written with React Js. It uses the EVAL() method for calculations. The colors and theme were chosen to match
+  //   my school's `,
+  //   descripcion: `Una calculadora simple pero bonita escrita con React Js. Utiliza el método EVAL() para los cálculos. Los colores y el tema fueron elegidos para combinar
+  //   la de mi escuela`,
+  //   rating: "3",
+  //   hub: "https://github.com/guitarbuju",
+  //   cat: "FRONTEND",
+  //   tech: ["React Js", "Javascript ", "HTML", "CSS"],
+  //   stage: "EARLY WORK",
+  //   etapa: " COMIENZOS",
+  //   published:false,
+  // },
 ];
 
 // export const modifiedPortfolio = portfolio.map((e, index) => ({
