@@ -49,7 +49,7 @@ const Card4 = ({language}) => {
                     </svg>
                   </a>
                   <div className="flex-col">
-                    <a className="w-3/4 sm:w-80" href={e.hub} >{e.published && <p className='blinker'>PUBLISHED</p>}</a>
+                    <a className="w-3/4 sm:w-80 " href={e.hub} >{e.published && <p className='blinker'> CLICK HERE </p>}</a>
                     <Rating rating={e.rating} />
                   </div>
                   
