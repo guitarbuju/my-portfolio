@@ -1,7 +1,7 @@
 import { motion } from "framer-motion";
 const CardESP = () => {
   return (
-    <div>
+    <div className="hidden xl:block">
       <motion.div
         className="card bg-transparent "
         style={{ width: "700px", border:'none' }}

@@ -12,11 +12,11 @@ activeLanguage = content
   }
 
   return (
-    <div className="flex flex-col">
+    <div className="flex flex-col ">
       {activeLanguage.map((e, index) => {
         return (
           <motion.div
-            className="  flex flew-row text-xs gap-6 ml-20 mt-4 rounded-xl p-2.5"
+            className="  flex flex-col text-xs gap-6 ml-20 mt-4 rounded-xl p-2.5  sm:flex-row items-center justify-center"
             key={index}
             initial={{ opacity: 0, y: -1000 }}
             animate={{ opacity: 1, y: 0 }}
@@ -27,7 +27,7 @@ activeLanguage = content
               transition: { duration: 0.2 }, // Adjust the duration for the hover effect
             }}
           >
-            <div className=" flex flex-col ml-8 w-50 text-blue-100 opacity-70  ">
+            <div className=" flex gap-2 sm:flex-col ml-8 w-50 text-blue-100 opacity-70  ">
               {e.date}
               <span
                 style={{
@@ -71,13 +71,13 @@ activeLanguage = content
               </motion.div>
 
               <motion.p
-                className="w-96 text-justify text-blue-100 leading-relaxed opacity-50 "
+                className="w-80 sm:w-96 sm:opacity-50 text-justify text-blue-100 leading-relaxed opacity-100 "
                
               >
                 {e.text}
               </motion.p>
 
-              <div className="flex gap-2 mt-2 flex-wrap w-96">
+              <div className="flex gap-2 mt-2 flex-wrap  w-80 sm:w-96">
                 {e.tech.map((tech, techIndex) => {
                   return (
                     <span

@@ -4,8 +4,8 @@
 
 
 body {
-  height: 100%;
-  width: 100%;
+  min-height: 100vh;
+  min-width: 100vw;
   background-color: #111827 ;
 }
 
@@ -18,4 +18,16 @@ body {
 .blinker{
   animation:blink 1s infinite;
   color:#fed700;
+  display: flex;
+  justify-content: center;
+  align-items: center;  
+}
+
+.blinker:hover{
+  border-radius: 25px;
+  border-color: #fed700;
+  border-width: 1px;
+  color:white;
+  background-color: #fed700;
+  text-shadow: 1px 1px 1px black;
 }
