@@ -608,6 +608,23 @@ export const images = [
 
 export const portfolio = [
   {
+    img: "https://res.cloudinary.com/dfbflavif/image/upload/v1709814318/goldenphi_renttl.png",
+    title: "GOLDEN PHI",
+    desc: 'Golden Phi is a startup company specializing in QA testing education. Our mission is to equip individuals with the skills and knowledge needed to excel in the field of quality assurance testing. Through our comprehensive courses and practical approach, we aim to prepare students for real-world challenges in the software industry.',
+    descripcion: `Golden Phi es una nueva empresa que se especializa en educación sobre pruebas de control de calidad. Nuestra misión es dotar a las personas de las habilidades y conocimientos necesarios para sobresalir en el campo de las pruebas de control de calidad. A través de nuestros cursos integrales y nuestro enfoque práctico, nuestro objetivo es preparar a los estudiantes para los desafíos del mundo real en la industria del software.`,
+    rating: "5",
+    hub: "https://goldenphi.netlify.app/",
+    cat: "FRONTEND",
+    tech: [
+      "React Js",
+      "HTML",
+      "CSS",
+      "Javascript",
+    ],
+    stage: "RECENT WORK",
+    etapa: "RECIENTE",
+    published:true,
+  }, {
     img: "https://res.cloudinary.com/dfbflavif/image/upload/v1704809949/cinerama._001_igrnkc.png",
     title: "CINERAMA",
     desc: `Cinerama is your ultimate destination for serious moviegoers. This page offers 
