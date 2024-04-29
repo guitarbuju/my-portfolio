@@ -608,6 +608,29 @@ export const images = [
 
 export const portfolio = [
   {
+    img: "https://res.cloudinary.com/dfbflavif/image/upload/v1714420520/easymed_dzwhtn.png",
+    title: "EASYMED PATIENTS ERP",
+    desc: `Introducing EASYMED, your all-in-one solution for streamlining doctor consultations! Easily schedule appointments, manage patient and doctor registrations, generate invoices, and handle administrative tasks seamlessly. With intuitive design and robust features, EASYMED empowers doctors and patients alike, ensuring a smooth and efficient healthcare experience for all.`,
+    descripcion:"¡Presentamos EASYMED, su solución todo en uno para agilizar las consultas médicas! Programe citas fácilmente, administre registros de pacientes y médicos, genere facturas y maneje tareas administrativas sin problemas. Con un diseño intuitivo y funciones sólidas, EASYMED capacita a médicos y pacientes por igual, garantizando una experiencia de atención médica fluida y eficiente para todos.",
+    rating: "5",
+    hub: "https://github.com/guitarbuju",
+    cat: "FULLSTACK",
+    tech: [
+      "React Js",
+      "PostgreSQL",
+      "Tailwind Css",
+      "Javascript",
+      "Zustand",
+      "Express.js",
+      "HeadlessUI",
+      "ReactRouter",
+
+    ],
+    stage: "RECENT WORK",
+    etapa: "RECIENTE",
+    published:false,
+  },
+  {
     img: "https://res.cloudinary.com/dfbflavif/image/upload/v1709814318/goldenphi_renttl.png",
     title: "GOLDEN PHI",
     desc: 'Golden Phi is a startup company specializing in QA testing education. Our mission is to equip individuals with the skills and knowledge needed to excel in the field of quality assurance testing. Through our comprehensive courses and practical approach, we aim to prepare students for real-world challenges in the software industry.',
@@ -723,36 +746,7 @@ export const portfolio = [
     etapa: " RECIENTE",
     published:true,
   },
-  {
-    img: "https://res.cloudinary.com/dfbflavif/image/upload/v1704809946/Screenshot_2023-06-25_at_21.19.22_q7tjoq.png",
-    title: "TODOAPP LIST",
-    desc: `Meet our unassuming yet brilliant todo list app. Beyond its apparent simplicity lies a creation that not only 
-    meets but exceeds the rigorous standards set by the MERN STACK TFM in my boot camp. This is no ordinary app; it's a symphony o
-    f innovation and efficiency. With a minimalist interface, it redefines productivity. Each line of code is meticulously crafted to transform chaos into order,
-     overwhelm into manageability. This app isn't just about tasks; it's about orchestrating them flawlessly. Experience the power of 
-     sophistication and functionality, seamlessly fused into a deceptively simple design that's anything but ordinary. `,
-    descripcion: `Conozca nuestra sencilla pero brillante aplicación de lista de tareas pendientes. Más allá de su aparente sencillez se esconde una creación que no sólo
-     cumple pero supera los rigurosos estándares establecidos por MERN STACK TFM en mi campo de entrenamiento. Esta no es una aplicación ordinaria; es una sinfonía o
-     de innovación y eficiencia. Con una interfaz minimalista, redefine la productividad. `,
-    rating: "5",
-    hub: "https://github.com/guitarbuju",
-    cat: "FULLSTACK",
-    tech: [
-      "React Js",
-      "HTML",
-      "CSS",
-      "Javascript",
-      "Node js",
-      "Express Js",
-      "Docker",
-      "MONGODB",
-      "JWT",
-      "Bycript",
-    ],
-    stage: "RECENT WORK",
-    etapa: " RECIENTE",
-    published:false,
-  },
+ 
   // {
   //   img: "https://res.cloudinary.com/dfbflavif/image/upload/v1704809945/pokeapi_qpztsz.png",
   //   title: "POKEMON API",
@@ -803,16 +797,33 @@ export const portfolio = [
   // },
 
   {
-    img: "https://res.cloudinary.com/dfbflavif/image/upload/v1704809946/Screenshot_2023-08-16_at_13.18.39_kc4gvi.png",
-    title: "JS MOVIE API",
-    desc: " Here is a movie list API Simple yet clever vanilla JS app for practicing fetch and pagination",
-    descripcion: `Esta es una API de lista de películas. Aplicación JS simple pero inteligente para practicar búsqueda y paginación.`,
-    rating: "3",
+    img: "https://res.cloudinary.com/dfbflavif/image/upload/v1704809946/Screenshot_2023-06-25_at_21.19.22_q7tjoq.png",
+    title: "TODOAPP LIST",
+    desc: `Meet our unassuming yet brilliant todo list app. Beyond its apparent simplicity lies a creation that not only 
+    meets but exceeds the rigorous standards set by the MERN STACK TFM in my boot camp. This is no ordinary app; it's a symphony o
+    f innovation and efficiency. With a minimalist interface, it redefines productivity. Each line of code is meticulously crafted to transform chaos into order,
+     overwhelm into manageability. This app isn't just about tasks; it's about orchestrating them flawlessly. Experience the power of 
+     sophistication and functionality, seamlessly fused into a deceptively simple design that's anything but ordinary. `,
+    descripcion: `Conozca nuestra sencilla pero brillante aplicación de lista de tareas pendientes. Más allá de su aparente sencillez se esconde una creación que no sólo
+     cumple pero supera los rigurosos estándares establecidos por MERN STACK TFM en mi campo de entrenamiento. Esta no es una aplicación ordinaria; es una sinfonía o
+     de innovación y eficiencia. Con una interfaz minimalista, redefine la productividad. `,
+    rating: "5",
     hub: "https://github.com/guitarbuju",
-    cat: "FRONTEND",
-    tech: ["HTML", "CSS", "Javascript"],
+    cat: "FULLSTACK",
+    tech: [
+      "React Js",
+      "HTML",
+      "CSS",
+      "Javascript",
+      "Node js",
+      "Express Js",
+      "Docker",
+      "MONGODB",
+      "JWT",
+      "Bycript",
+    ],
     stage: "EARLY WORK",
-    etapa: "COMIENZOS",
+    etapa: " COMIENZOS",
     published:false,
   },
 
@@ -834,8 +845,21 @@ export const portfolio = [
       "mySQL",
       "Bootstrap",
     ],
-    stage: "SOPHOMORE",
-    etapa: "CRECIENDO",
+    stage: "EARLY WORK",
+    etapa: "COMIENZOS",
+    published:false,
+  },
+  {
+    img: "https://res.cloudinary.com/dfbflavif/image/upload/v1704809946/Screenshot_2023-08-16_at_13.18.39_kc4gvi.png",
+    title: "JS MOVIE API",
+    desc: " Here is a movie list API Simple yet clever vanilla JS app for practicing fetch and pagination",
+    descripcion: `Esta es una API de lista de películas. Aplicación JS simple pero inteligente para practicar búsqueda y paginación.`,
+    rating: "3",
+    hub: "https://github.com/guitarbuju",
+    cat: "FRONTEND",
+    tech: ["HTML", "CSS", "Javascript"],
+    stage: "EARLY WORK",
+    etapa: "COMIENZOS",
     published:false,
   },
 
