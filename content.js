@@ -613,7 +613,7 @@ export const portfolio = [
     desc: `Introducing EASYMED, your all-in-one solution for streamlining doctor consultations! Easily schedule appointments, manage patient and doctor registrations, generate invoices, and handle administrative tasks seamlessly. With intuitive design and robust features, EASYMED empowers doctors and patients alike, ensuring a smooth and efficient healthcare experience for all.`,
     descripcion:"¡Presentamos EASYMED, su solución todo en uno para agilizar las consultas médicas! Programe citas fácilmente, administre registros de pacientes y médicos, genere facturas y maneje tareas administrativas sin problemas. Con un diseño intuitivo y funciones sólidas, EASYMED capacita a médicos y pacientes por igual, garantizando una experiencia de atención médica fluida y eficiente para todos.",
     rating: "5",
-    hub: "https://github.com/guitarbuju",
+    hub: "https://res.cloudinary.com/dfbflavif/video/upload/v1719950461/Portfolio/easymed_jnfmth.mp4",
     cat: "FULLSTACK",
     tech: [
       "React Js",
@@ -628,7 +628,7 @@ export const portfolio = [
     ],
     stage: "RECENT WORK",
     etapa: "RECIENTE",
-    published:false,
+    published:true,
   },
   {
     img: "https://res.cloudinary.com/dfbflavif/image/upload/v1709814318/goldenphi_renttl.png",
