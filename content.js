@@ -1,29 +1,5 @@
 export const content = [
-  {
-    date: "2021 - PRES",
-    cat: "EXPERIENCE",
-    title: "Digital Marketing Executive - SISTEAM INSTITUTO SL",
-    text: `Sisteam is a Germany-based consulting company specializing in the
-        automotive and manufacturing industries.Our core mission is to
-        provide comprehensive expertise and guidance to clients throughout
-        their entire operational journey. As a member of the team, I oversee
-        all aspects of Social Media, including creating, editing, and
-        posting videos, images, and content across major platforms like
-        Facebook, Instagram, and LinkedIn.`,
-    tech: [
-      "Wix",
-      "Imovie",
-      "Illustrator",
-      "Javascript",
-      "React.Js",
-      "Instagram",
-      "Facebook",
-      "Linkedin",
-      "YouTube",
-    ],
-    url: "https://sisteam-group.es/",
-    relevant: true,
-  },
+ 
   {
     date: "2022 - PRES",
     cat: "EXPERIENCE",
@@ -51,7 +27,31 @@ export const content = [
     url: "https://www.setitem.com/",
     relevant: true,
   },
-
+  {
+    date: "2021 - 2023",
+    cat: "EXPERIENCE",
+    title: "Digital Marketing Executive - SISTEAM INSTITUTO SL",
+    text: `Sisteam is a Germany-based consulting company specializing in the
+        automotive and manufacturing industries.Our core mission is to
+        provide comprehensive expertise and guidance to clients throughout
+        their entire operational journey. As a member of the team, I oversee
+        all aspects of Social Media, including creating, editing, and
+        posting videos, images, and content across major platforms like
+        Facebook, Instagram, and LinkedIn.`,
+    tech: [
+      "Wix",
+      "Imovie",
+      "Illustrator",
+      "Javascript",
+      "React.Js",
+      "Instagram",
+      "Facebook",
+      "Linkedin",
+      "YouTube",
+    ],
+    url: "https://sisteam-group.es/",
+    relevant: true,
+  },
   {
     date: "2019 - 2020",
     cat: "EXPERIENCE",
