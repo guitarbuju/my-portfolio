@@ -1,7 +1,7 @@
 export const content = [
  
   {
-    date: "2022 - PRES",
+    date: "2021 - PRES",
     cat: "EXPERIENCE",
     title: "Developer - AVYCONS C.A",
     text: `Avycons is a software development company based in Venezuela that specializes 
