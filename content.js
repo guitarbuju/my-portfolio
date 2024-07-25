@@ -28,7 +28,7 @@ export const content = [
     relevant: true,
   },
   {
-    date: "2021 - 2023",
+    date: "2021 - 2021",
     cat: "EXPERIENCE",
     title: "Digital Marketing Executive - SISTEAM INSTITUTO SL",
     text: `Sisteam is a Germany-based consulting company specializing in the
@@ -174,21 +174,7 @@ export const content = [
 ];
 
 export const contenido = [
-  {
-    date: "2021 - PRES",
-    cat: "EXPERIENCIA",
-    title: "Ejecutivo de Marketing Digital - SISTEAM INSTITUTO SL",
-    text: `Sisteam es una empresa de consultoría con sede en Alemania que se especializa en la
-    Industria automotriz y manufacturera. Nuestra misión principal es
-    Proporcionar experiencia y orientación integral a los clientes en todo
-    todo su recorrido operativo. Como miembro del equipo, superviso
-    todos los aspectos de las redes sociales, incluida la creación, edición y
-    publicar videos, imágenes y contenido en las principales plataformas como
-    Facebook, Instagram y LinkedIn`,
-    tech: ["Wix", "Imovie", "Illustrator", "Javascript", "React.Js"],
-    url: "https://sisteam-group.es/",
-    relevant: true,
-  },
+ 
   {
     date: "2022 - PRES",
     cat: "EXPERIENCIA",
@@ -214,6 +200,21 @@ export const contenido = [
      Tuve el privilegio de contribuir en varios aspectos de la empresa, centrándome principalmente en el desarrollo de WordPress y el diseño gráfico. `,
     tech: ["Wordpress", "PHP", "Keynote"],
     url: "https://www.setitem.com/",
+    relevant: true,
+  },
+  {
+    date: "2021 - 2021",
+    cat: "EXPERIENCIA",
+    title: "Ejecutivo de Marketing Digital - SISTEAM INSTITUTO SL",
+    text: `Sisteam es una empresa de consultoría con sede en Alemania que se especializa en la
+    Industria automotriz y manufacturera. Nuestra misión principal es
+    Proporcionar experiencia y orientación integral a los clientes en todo
+    todo su recorrido operativo. Como miembro del equipo, superviso
+    todos los aspectos de las redes sociales, incluida la creación, edición y
+    publicar videos, imágenes y contenido en las principales plataformas como
+    Facebook, Instagram y LinkedIn`,
+    tech: ["Wix", "Imovie", "Illustrator", "Javascript", "React.Js"],
+    url: "https://sisteam-group.es/",
     relevant: true,
   },
   {
