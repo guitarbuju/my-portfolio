@@ -33,7 +33,7 @@ const Card = () => {
                 className="italic text-blue-100 text-justify mr-1 text-xs"
                 style={{ color: "#5be2cd " }}
               >
-                React and Vanilla Js.
+                REACT JS, NEXT JS and VANILLA Js.
               </span>
               I use hooks, 3rd party libraries, Css preprocessors, Bootstrap,
               Tailwind, React Router, React Hook Forms, Zustand, Framer Motion,
@@ -43,7 +43,7 @@ const Card = () => {
               I&apos;m also experienced in{" "}
               <span style={{ color: "#5be2cd " }}>
                 NODE.JS, EXPRESS.JS, MONGODB, MYSQL, PHP, POSTMAN, DOCKER, GIT,
-                JIRA
+                JIRA, POSTGRESQL
               </span>{" "}
               and other technologies.
             </p> :

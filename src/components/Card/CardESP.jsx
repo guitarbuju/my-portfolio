@@ -31,7 +31,7 @@ const CardESP = () => {
                 className="italic text-blue-100 text-justify mr-1 text-xs"
                 style={{ color: "#5be2cd " }}
               >
-                React y Vanilla Js.
+               REACT JS , NEXT JS, VANILLA JS.
               </span>
               utilizo hooks, diferentes Librerias, Preprocesadores CSS, Bootstrap,
               Tailwind, React Router, React Hook Forms, Zustand, Framer Motion,
@@ -41,7 +41,7 @@ const CardESP = () => {
               Tambien tengo experiencia con{" "}
               <span style={{ color: "#5be2cd " }}>
                 NODE.JS, EXPRESS.JS, MONGODB, MYSQL, PHP, POSTMAN, DOCKER, GIT,
-                JIRA
+                JIRA, POSTGRESQL
               </span>{" "}
               y otras tecnologias.
             </p> 
