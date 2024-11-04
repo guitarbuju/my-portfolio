@@ -618,6 +618,7 @@ export const portfolio = [
       "React Js",
       "Tailwind Css",
       "Javascript",
+      "Typescript",
       "NextJs",
       "Shadcn",
       "Mamba UI",
