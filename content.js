@@ -1,5 +1,4 @@
 export const content = [
- 
   {
     date: "2021 - PRES",
     cat: "EXPERIENCE",
@@ -174,7 +173,6 @@ export const content = [
 ];
 
 export const contenido = [
- 
   {
     date: "2022 - PRES",
     cat: "EXPERIENCIA",
@@ -392,7 +390,7 @@ export const images = [
   },
   {
     title: "once upon",
-    url: "https://res.cloudinary.com/dfbflavif/image/upload/v1704809944/once_upon.001_np4i1j.jpg"
+    url: "https://res.cloudinary.com/dfbflavif/image/upload/v1704809944/once_upon.001_np4i1j.jpg",
   },
   {
     title: "mcqueen",
@@ -519,7 +517,7 @@ export const images = [
   },
   {
     title: "zoilo5",
-    url: "https://res.cloudinary.com/dfbflavif/image/upload/v1704815186/ZOILO_ESTEFANO.004_jhqlie.jpg"
+    url: "https://res.cloudinary.com/dfbflavif/image/upload/v1704815186/ZOILO_ESTEFANO.004_jhqlie.jpg",
   },
   {
     title: "zoilo6",
@@ -532,7 +530,8 @@ export const images = [
   },
   {
     title: "zoilo8",
-    url: "https://res.cloudinary.com/dfbflavif/image/upload/v1704815181/ZOILITO_RECUERDITOS.001_txwyfw.jpg"},
+    url: "https://res.cloudinary.com/dfbflavif/image/upload/v1704815181/ZOILITO_RECUERDITOS.001_txwyfw.jpg",
+  },
   {
     title: "velvet",
     url: "https://res.cloudinary.com/dfbflavif/image/upload/v1704815179/velvet.002_l5ztlm.jpg",
@@ -605,14 +604,35 @@ export const images = [
   },
 ];
 
-
-
 export const portfolio = [
+  {
+    img: "https://res.cloudinary.com/dfbflavif/image/upload/v1730722434/Portfolio/maybeui_orsz1f.png",
+    title: "MAYBEUI",
+    desc: `Welcome to MAYBEUI, the ultimate free resource for beautifully designed, copy-paste UI components built for React and styled with Tailwind CSS. MAYBEUI is here to help you streamline your development process with a range of pre-made components that are easy to use, integrate, and customize—no signup, no questions asked.`,
+    descripcion:
+      "Bienvenido a MAYBEUI, el recurso gratuito definitivo para componentes de interfaz de usuario de copiar y pegar bellamente diseñados, creados para React y diseñados con Tailwind CSS. MAYBEUI está aquí para ayudarlo a optimizar su proceso de desarrollo con una variedad de componentes prediseñados que son fáciles de usar, integrar y personalizar, sin registrarse ni hacer preguntas..",
+    rating: "4",
+    hub: "https://maybe-bc4clrhq3-gerardo-madrids-projects.vercel.app/sections/about",
+    cat: "FRONTEND",
+    tech: [
+      "React Js",
+      "Tailwind Css",
+      "Javascript",
+      "NextJs",
+      "Shadcn",
+      "Mamba UI",
+      "Vercel"
+    ],
+    stage: "RECENT WORK",
+    etapa: "RECIENTE",
+    published: true,
+  },
   {
     img: "https://res.cloudinary.com/dfbflavif/image/upload/v1714420520/easymed_dzwhtn.png",
     title: "EASYMED PATIENTS ERP",
     desc: `Introducing EASYMED, your all-in-one solution for streamlining doctor consultations! Easily schedule appointments, manage patient and doctor registrations, generate invoices, and handle administrative tasks seamlessly. With intuitive design and robust features, EASYMED empowers doctors and patients alike, ensuring a smooth and efficient healthcare experience for all.`,
-    descripcion:"¡Presentamos EASYMED, su solución todo en uno para agilizar las consultas médicas! Programe citas fácilmente, administre registros de pacientes y médicos, genere facturas y maneje tareas administrativas sin problemas. Con un diseño intuitivo y funciones sólidas, EASYMED capacita a médicos y pacientes por igual, garantizando una experiencia de atención médica fluida y eficiente para todos.",
+    descripcion:
+      "¡Presentamos EASYMED, su solución todo en uno para agilizar las consultas médicas! Programe citas fácilmente, administre registros de pacientes y médicos, genere facturas y maneje tareas administrativas sin problemas. Con un diseño intuitivo y funciones sólidas, EASYMED capacita a médicos y pacientes por igual, garantizando una experiencia de atención médica fluida y eficiente para todos.",
     rating: "5",
     hub: "https://res.cloudinary.com/dfbflavif/video/upload/v1719950461/Portfolio/easymed_jnfmth.mp4",
     cat: "FULLSTACK",
@@ -625,30 +645,25 @@ export const portfolio = [
       "Express.js",
       "HeadlessUI",
       "ReactRouter",
-
     ],
     stage: "RECENT WORK",
     etapa: "RECIENTE",
-    published:true,
+    published: true,
   },
   {
     img: "https://res.cloudinary.com/dfbflavif/image/upload/v1709814318/goldenphi_renttl.png",
     title: "GOLDEN PHI",
-    desc: 'Golden Phi is a startup company specializing in QA testing education. Our mission is to equip individuals with the skills and knowledge needed to excel in the field of quality assurance testing. Through our comprehensive courses and practical approach, we aim to prepare students for real-world challenges in the software industry.',
+    desc: "Golden Phi is a startup company specializing in QA testing education. Our mission is to equip individuals with the skills and knowledge needed to excel in the field of quality assurance testing. Through our comprehensive courses and practical approach, we aim to prepare students for real-world challenges in the software industry.",
     descripcion: `Golden Phi es una nueva empresa que se especializa en educación sobre pruebas de control de calidad. Nuestra misión es dotar a las personas de las habilidades y conocimientos necesarios para sobresalir en el campo de las pruebas de control de calidad. A través de nuestros cursos integrales y nuestro enfoque práctico, nuestro objetivo es preparar a los estudiantes para los desafíos del mundo real en la industria del software.`,
     rating: "5",
     hub: "https://goldenphi.netlify.app/",
     cat: "FRONTEND",
-    tech: [
-      "React Js",
-      "HTML",
-      "CSS",
-      "Javascript",
-    ],
+    tech: ["React Js", "HTML", "CSS", "Javascript"],
     stage: "RECENT WORK",
     etapa: "RECIENTE",
-    published:true,
-  }, {
+    published: true,
+  },
+  {
     img: "https://res.cloudinary.com/dfbflavif/image/upload/v1704809949/cinerama._001_igrnkc.png",
     title: "CINERAMA",
     desc: `Cinerama is your ultimate destination for serious moviegoers. This page offers 
@@ -672,8 +687,9 @@ export const portfolio = [
     ],
     stage: "RECENT WORK",
     etapa: "RECIENTE",
-    published:true,
-  },{
+    published: true,
+  },
+  {
     img: "https://res.cloudinary.com/dfbflavif/image/upload/v1704809948/star_wars_cover_vknbvf.png",
     title: "SW CARD TRADER",
     desc: `Welcome to the Star Wars Vintage Trading Cards Game App! This project is a React.js-based application that allows users to experience 
@@ -700,7 +716,7 @@ export const portfolio = [
     ],
     stage: "RECENT WORK",
     etapa: "RECIENTE",
-    published:true,
+    published: true,
   },
   {
     img: "https://res.cloudinary.com/dfbflavif/image/upload/v1704803398/portfolio/fancycar_pic_otgwpb.png",
@@ -719,11 +735,11 @@ export const portfolio = [
       "Framer Motion",
       "Tailwind CSS",
       "Daisy UI",
-      "Mamba UI"
+      "Mamba UI",
     ],
     stage: "RECENT WORK",
     etapa: "RECIENTE",
-    published:true,
+    published: true,
   },
   {
     img: "https://res.cloudinary.com/dfbflavif/image/upload/v1704809942/mego_jelt9x.png",
@@ -745,9 +761,9 @@ export const portfolio = [
     ],
     stage: "RECENT WORK",
     etapa: " RECIENTE",
-    published:true,
+    published: true,
   },
- 
+
   // {
   //   img: "https://res.cloudinary.com/dfbflavif/image/upload/v1704809945/pokeapi_qpztsz.png",
   //   title: "POKEMON API",
@@ -772,20 +788,20 @@ export const portfolio = [
     rating: "4",
     hub: "https://github.com/guitarbuju",
     cat: "FRONTEND",
-    tech: ["React Js", "Tailwind", "Compound Components","Typescript"],
+    tech: ["React Js", "Tailwind", "Compound Components", "Typescript"],
     stage: "RECENT WORK",
     etapa: " RECIENTE",
-    published:false,
+    published: false,
   },
   // {
   //   img: "https://res.cloudinary.com/dfbflavif/image/upload/v1704809944/onepiece_lpuhwo.png",
   //   title: "ONEPIECE SLUT MACHINE",
-  //   desc: `In a realm where creativity knows no bounds, I set out to chart a course into uncharted 
-  //   territory – my very first React project. Devoid of tutorials and pretentiousness, this project 
-  //   was born from the depths of my imagination and translated into code, an ode to the unbridled spirit 
+  //   desc: `In a realm where creativity knows no bounds, I set out to chart a course into uncharted
+  //   territory – my very first React project. Devoid of tutorials and pretentiousness, this project
+  //   was born from the depths of my imagination and translated into code, an ode to the unbridled spirit
   //   of invention.`,
-  //   descripcion: `En un mundo donde la creatividad no tiene límites, me dispuse a trazar un curso en 
-  //   territorio desconocido para mi– mi primer proyecto React. Desprovisto de tutoriales y pretensiones, 
+  //   descripcion: `En un mundo donde la creatividad no tiene límites, me dispuse a trazar un curso en
+  //   territorio desconocido para mi– mi primer proyecto React. Desprovisto de tutoriales y pretensiones,
   //   este proyecto nació de lo más profundo de mi imaginación y se tradujo en código, una oda al espíritu desenfrenado
   //   de invención.`,
   //   rating: "5",
@@ -825,7 +841,7 @@ export const portfolio = [
     ],
     stage: "EARLY WORK",
     etapa: " COMIENZOS",
-    published:false,
+    published: false,
   },
 
   {
@@ -848,7 +864,7 @@ export const portfolio = [
     ],
     stage: "EARLY WORK",
     etapa: "COMIENZOS",
-    published:false,
+    published: false,
   },
   {
     img: "https://res.cloudinary.com/dfbflavif/image/upload/v1704809946/Screenshot_2023-08-16_at_13.18.39_kc4gvi.png",
@@ -861,22 +877,22 @@ export const portfolio = [
     tech: ["HTML", "CSS", "Javascript"],
     stage: "EARLY WORK",
     etapa: "COMIENZOS",
-    published:false,
+    published: false,
   },
 
-  {
-    img: "https://res.cloudinary.com/dfbflavif/image/upload/v1704809948/sisteam_wix_pmxeod.png",
-    title: "SISTEAM INSTITUTO ",
-    desc: "Here is my first attempt at developing a web site. Wix is not as common as Wordpress but definitely is more user friendly and has cooler features",
-    descripcion: `Aqui esta mi primer intento de desarrollar un sitio web. Wix no es tan común como Wordpress, pero definitivamente es más fácil de usar y tiene características más geniales.`,
-    rating: "3",
-    hub: "https://sistemafl8.wixsite.com/sisteam-1",
-    cat: "CMS",
-    tech: ["Wix", "HTML", "CSS", "Keynote"],
-    stage: "EARLY WORK",
-    etapa: "COMIENZOS",
-    published:false,
-  },
+  // {
+  //   img: "https://res.cloudinary.com/dfbflavif/image/upload/v1704809948/sisteam_wix_pmxeod.png",
+  //   title: "SISTEAM INSTITUTO ",
+  //   desc: "Here is my first attempt at developing a web site. Wix is not as common as Wordpress but definitely is more user friendly and has cooler features",
+  //   descripcion: `Aqui esta mi primer intento de desarrollar un sitio web. Wix no es tan común como Wordpress, pero definitivamente es más fácil de usar y tiene características más geniales.`,
+  //   rating: "3",
+  //   hub: "https://sistemafl8.wixsite.com/sisteam-1",
+  //   cat: "CMS",
+  //   tech: ["Wix", "HTML", "CSS", "Keynote"],
+  //   stage: "EARLY WORK",
+  //   etapa: "COMIENZOS",
+  //   published: false,
+  // },
   // {
   //   img: "https://res.cloudinary.com/dfbflavif/image/upload/v1704809942/Kilingon_dice_p5gty1.png",
   //   title: "START TREK Klingon Dice ",
@@ -897,7 +913,7 @@ export const portfolio = [
   //   title: "ROBOCOP CONSOLE ",
   //   desc: `I wanted to go beyond a simple to-do app so i wrote this funny Robocop themed app. It is a Fullstack project but it doesn´t have any BD-
   //    It plays randon movie sounds on submit , it even plays the movie's main theme`,
-  //   descripcion: `Quería ir más allá de una simple aplicación de tareas pendientes, así que escribí esta divertida aplicación temática de Robocop. 
+  //   descripcion: `Quería ir más allá de una simple aplicación de tareas pendientes, así que escribí esta divertida aplicación temática de Robocop.
   //   Es un proyecto Fullstack pero no tiene ningún BD-
   //   Reproduce sonidos aleatorios de disparos y dialogos al enviar e incluso reproduce el tema principal de la película.`,
   //   rating: "5",
@@ -926,7 +942,7 @@ export const portfolio = [
   // {
   //   img: "https://res.cloudinary.com/dfbflavif/image/upload/v1704817925/yoda_sq9b8t.png",
   //   title: "ASK A JEDI MASTER ",
-  //   desc: `I love Star Wars so I wanted to build something with that theme. This app triggers a fetch request to a 
+  //   desc: `I love Star Wars so I wanted to build something with that theme. This app triggers a fetch request to a
   //   free public quotes API. My main goal writing this app is to learn fetch and asyncronous javascript`,
   //   descripcion: `Me encanta Star Wars, así que quería construir algo con ese tema. Esta aplicación activa una solicitud de búsqueda para un
   //   API publica gratuita de dichos . Mi objetivo principal al escribir esta aplicación es aprender a hacer requisiciones y javascript asíncrono`,
