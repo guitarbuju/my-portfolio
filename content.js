@@ -612,7 +612,7 @@ export const portfolio = [
     descripcion:
       "Bienvenido a MAYBEUI, el recurso gratuito definitivo para componentes de interfaz de usuario de copiar y pegar bellamente diseñados, creados para React y diseñados con Tailwind CSS. MAYBEUI está aquí para ayudarlo a optimizar su proceso de desarrollo con una variedad de componentes prediseñados que son fáciles de usar, integrar y personalizar, sin registrarse ni hacer preguntas..",
     rating: "4",
-    hub: "https://maybe-bc4clrhq3-gerardo-madrids-projects.vercel.app/sections/about",
+    hub: "https://maybe-bc4clrhq3-gerardo-madrids-projects.vercel.app",
     cat: "FRONTEND",
     tech: [
       "React Js",
