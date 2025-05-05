@@ -606,12 +606,35 @@ export const images = [
 
 export const portfolio = [
   {
+    img: "https://res.cloudinary.com/dfbflavif/image/upload/v1746471739/surgrgery_calendar_pcnelg.png",
+    title: "SURGERY CALENDAR APP",
+    desc: `Surgical Appointments Manager – A full-stack Next.js application for managing surgical appointments. Users can create doctors, patients, and schedule appointments via intuitive forms, view and manage appointments on a dynamic calendar (React Big Calendar), and update events through interactive pop-up dialogs. Built with Tailwind CSS, PostgreSQL, and modern React features like client components and server actions.`,
+    descripcion:
+      "Gestor de Citas Quirúrgicas – Aplicación full-stack en Next.js para la gestión de citas quirúrgicas. Los usuarios pueden crear doctores, pacientes y agendar citas mediante formularios intuitivos, visualizar y administrar las citas en un calendario dinámico (React Big Calendar) y actualizar eventos a través de diálogos emergentes interactivos. Construido con Tailwind CSS, PostgreSQL y características modernas de React como componentes cliente y server actions.",
+    rating: "3",
+    hub: "https://github.com/guitarbuju/Surgery_Calendar_App",
+    cat: "FULLSTACK",
+    tech: [
+      "React Js",
+      "Tailwind Css",
+      "Javascript",
+      "Typescript",
+      "NextJs",
+      "Shadcn",
+      "PostGreSql",
+      "react Big Calendar"
+    ],
+    stage: "RECENT WORK",
+    etapa: "RECIENTE",
+    published: false,
+  },
+  {
     img: "https://res.cloudinary.com/dfbflavif/image/upload/v1730722434/Portfolio/maybeui_orsz1f.png",
     title: "MAYBEUI",
     desc: `Welcome to MAYBEUI, the ultimate free resource for beautifully designed, copy-paste UI components built for React and styled with Tailwind CSS. MAYBEUI is here to help you streamline your development process with a range of pre-made components that are easy to use, integrate, and customize—no signup, no questions asked.`,
     descripcion:
       "Bienvenido a MAYBEUI, el recurso gratuito definitivo para componentes de interfaz de usuario de copiar y pegar bellamente diseñados, creados para React y diseñados con Tailwind CSS. MAYBEUI está aquí para ayudarlo a optimizar su proceso de desarrollo con una variedad de componentes prediseñados que son fáciles de usar, integrar y personalizar, sin registrarse ni hacer preguntas..",
-    rating: "4",
+    rating: "3",
     hub: "https://maybe-bc4clrhq3-gerardo-madrids-projects.vercel.app",
     cat: "FRONTEND",
     tech: [
@@ -649,7 +672,7 @@ export const portfolio = [
     ],
     stage: "RECENT WORK",
     etapa: "RECIENTE",
-    published: true,
+    published: false,
   },
   {
     img: "https://res.cloudinary.com/dfbflavif/image/upload/v1709814318/goldenphi_renttl.png",
@@ -738,8 +761,8 @@ export const portfolio = [
       "Daisy UI",
       "Mamba UI",
     ],
-    stage: "RECENT WORK",
-    etapa: "RECIENTE",
+    stage: "EARLY WORK",
+    etapa: "COMIENZOS",
     published: true,
   },
   {
@@ -760,8 +783,8 @@ export const portfolio = [
       "Zustand",
       " Framer Motion",
     ],
-    stage: "RECENT WORK",
-    etapa: " RECIENTE",
+    stage: "EARLY WORK",
+    etapa: " COMIENZOS",
     published: true,
   },
 
@@ -790,8 +813,8 @@ export const portfolio = [
     hub: "https://github.com/guitarbuju",
     cat: "FRONTEND",
     tech: ["React Js", "Tailwind", "Compound Components", "Typescript"],
-    stage: "RECENT WORK",
-    etapa: " RECIENTE",
+    stage: "EARLY WORK",
+    etapa: " COMIENZOS",
     published: false,
   },
   // {
