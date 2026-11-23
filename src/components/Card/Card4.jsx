@@ -1,4 +1,3 @@
-/* eslint-disable react/prop-types */
 import { portfolio } from "../../../content";
 import { motion } from "framer-motion";
 import Rating from './Rating';

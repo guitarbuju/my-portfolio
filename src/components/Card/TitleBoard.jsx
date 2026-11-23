@@ -13,28 +13,23 @@ const TitleBoard = ({handleCheck, handleLanguage, language}) => {
 
   const [randomQuote, SetRandomQuote] = useState({});
 
-  const options = {
-    method: "GET",
-    url: "https://type.fit/api/quotes",
-  };
-
-  const getQuotes = async () => {
-    try {
-      const response = await axios.request(options);
-
-      const randomIndex = Math.floor(Math.random() * 16);
-
-      const { text, author } = response.data[randomIndex];
-
-      const trimAuthor = author.split(",")[0].trim();
-
-      SetRandomQuote({ text, trimAuthor });
-    } catch (error) {
-      console.error(error);
-    }
-  };
-
   useEffect(() => {
+    const getQuotes = async () => {
+      try {
+        const response = await axios.get("https://type.fit/api/quotes");
+
+        const randomIndex = Math.floor(Math.random() * 16);
+
+        const { text, author } = response.data[randomIndex];
+
+        const trimAuthor = author.split(",")[0].trim();
+
+        SetRandomQuote({ text, trimAuthor });
+      } catch (error) {
+        console.error(error);
+      }
+    };
+
     getQuotes();
     window.scrollTo(0, 0);
   }, []);
