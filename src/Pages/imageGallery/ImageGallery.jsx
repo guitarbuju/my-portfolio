@@ -2,7 +2,7 @@ import { useEffect } from "react";
 import { images } from "../../../content";
 import { motion, AnimatePresence } from "framer-motion";
 import { Link } from "react-router-dom";
-const Portfolio = () => {
+const ImageGallery = () => {
   const openImageInNewTab = (url) => {
     window.open(url, "_blank");
   };
@@ -14,8 +14,7 @@ const Portfolio = () => {
     <>
       <AnimatePresence>
         <motion.div
-          className="navbar fixed z-10"
-          style={{ backgroundColor: "#111827 " }}
+          className="navbar fixed z-10 bg-[#111827]"
           initial={{ y: -1000, opacity: 0 }}
           animate={{ y: 0, opacity: 1 }}
           exit={{ y: 1000, opacity: 0 }}
@@ -29,7 +28,7 @@ const Portfolio = () => {
           <div className=" 2xl:flex-col ">
             <div className=" flex-1">
               <a className="btn btn-ghost normal-case text-4xl text-blue-100">
-                Welcome to my Gallery...
+                Image Gallery
               </a>
             </div>
             <div className="flex ">
@@ -57,10 +56,9 @@ const Portfolio = () => {
             >
               <div className="lg:tooltip tooltip-warning " data-tip="click me!">
                 <img
-                  className="object-contain w-full h-full"
+                  className="object-contain w-full h-full bg-[#111827]"
                   src={image.url}
                   alt={image.title}
-                  style={{ backgroundColor: "#111827" }}
                   onClick={() => openImageInNewTab(image.url)}
                 />
               </div>
@@ -72,4 +70,4 @@ const Portfolio = () => {
   );
 };
 
-export default Portfolio;
+export default ImageGallery;

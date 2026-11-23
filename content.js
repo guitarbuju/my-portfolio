@@ -1,6 +1,70 @@
+export const profileSkills = {
+  otherTools: "NODE.JS, EXPRESS.JS, MONGODB, MYSQL, PHP, POSTMAN, DOCKER, GIT, JIRA, POSTGRESQL",
+  en: {
+    intro: "My name is Gerardo Madrid. I'm a software developer from Venezuela living in Europe.",
+    focusIntro: "I'm currently focused in",
+    focus: "FrontEnd Development",
+    focusConnector: "with",
+    frontendTools: "REACT JS, NEXT JS and VANILLA Js.",
+    frontendDetails: "I use hooks, 3rd party libraries, Css preprocessors, Bootstrap, Tailwind, React Router, React Hook Forms, Zustand, Framer Motion, NPM etc.",
+    quote: "What sets me apart is my unwavering commitment to my clients. I bring to the table not only technical expertise but also a strong work ethic, a thirst for continuous learning, and a collaborative approach to team dynamics. My dedication to your projects goes beyond mere work; I take personal pride in aligning with your company's vision and goals.",
+    backendIntro: "I also have experience with backend development using",
+    backendTools: "Python and FastAPI",
+    automationIntro: ", CI/CD with",
+    automationTools: "GitHub Actions",
+    qualityIntro: ", and code security, review, and quality with",
+    qualityTools: "Snyk, CodeRabbit, and SonarQube",
+    otherIntro: "Other technologies I use include",
+  },
+  es: {
+    intro: "Mi nombre es Gerardo Madrid. Soy un Desarrollador de Software de Venezuela viviendo en Europa.",
+    focusIntro: "Actualmente me enfoco en",
+    focus: "Desarrollo FrontEnd",
+    focusConnector: "con",
+    frontendTools: "REACT JS , NEXT JS, VANILLA JS.",
+    frontendDetails: "utilizo hooks, diferentes Librerias, Preprocesadores CSS, Bootstrap, Tailwind, React Router, React Hook Forms, Zustand, Framer Motion, NPM etc.",
+    quote: "Lo que me distingue es mi compromiso inquebrantable con mis clientes. Traigo a la mesa no solo experiencia técnica sino también una fuerte Ética de trabajo, sed de aprendizaje continuo y espíritu colaborativo. Enfoque de la dinámica de equipo. Mi dedicación a sus proyectos va más allá del mero trabajo; Me enorgullece personalmente alinearme con su visión y objetivos de la empresa.",
+    backendIntro: "También tengo experiencia en desarrollo backend con",
+    backendTools: "Python y FastAPI",
+    automationIntro: ", integración y entrega continuas con",
+    automationTools: "GitHub Actions",
+    qualityIntro: ", y seguridad, revisión y calidad del código con",
+    qualityTools: "Snyk, CodeRabbit y SonarQube",
+    otherIntro: "Otras tecnologías que utilizo incluyen",
+  },
+};
+
 export const content = [
   {
-    date: "2021 - PRES",
+    date: "2025 - 2026",
+    cat: "EXPERIENCE",
+    title: "Full Stack Developer - IAG",
+    url: "https://careers.iagtransform.com/",
+    text: `I designed and developed web applications for aircraft heavy maintenance planning at IAG, supporting airlines including British Airways, Iberia, Vueling, Aer Lingus, and LEVEL.
+    I contributed to tools that streamline aircraft maintenance workflows, task card management, and maintenance planning.
+    I worked across the frontend and backend, building responsive interfaces, RESTful APIs, and database-driven solutions as part of an Agile team.`,
+    tech: [
+      "Next.js",
+      "React",
+      "TypeScript",
+      "FastAPI",
+      "Python",
+      "Tailwind CSS",
+      "PostgreSQL",
+      "SQLAlchemy",
+      "Alembic",
+      "Pydantic",
+      "GitHub",
+      "GitHub Actions",
+      "Snyk",
+      "CodeRabbit",
+      "SonarQube",
+      "Jira",
+    ],
+    relevant: true,
+  },
+  {
+    date: "2021 - 2024",
     cat: "EXPERIENCE",
     title: "Developer - AVYCONS C.A",
     text: `Avycons is a software development company based in Venezuela that specializes 
@@ -173,6 +237,34 @@ export const content = [
 ];
 
 export const contenido = [
+  {
+    date: "2025 - 2026",
+    cat: "EXPERIENCIA",
+    title: "Desarrollador Full Stack - IAG",
+    url: "https://careers.iagtransform.com/",
+    text: `Diseñé y desarrollé aplicaciones web para la planificación del mantenimiento pesado de aeronaves en IAG, dando soporte a aerolíneas como British Airways, Iberia, Vueling, Aer Lingus y LEVEL.
+    Contribuí al desarrollo de herramientas que agilizan los flujos de trabajo de mantenimiento aeronáutico, la gestión de tarjetas de trabajo y la planificación del mantenimiento.
+    Trabajé tanto en frontend como en backend, creando interfaces adaptables, APIs RESTful y soluciones basadas en bases de datos como parte de un equipo ágil.`,
+    tech: [
+      "Next.js",
+      "React",
+      "TypeScript",
+      "FastAPI",
+      "Python",
+      "Tailwind CSS",
+      "PostgreSQL",
+      "SQLAlchemy",
+      "Alembic",
+      "Pydantic",
+      "GitHub",
+      "GitHub Actions",
+      "Snyk",
+      "CodeRabbit",
+      "SonarQube",
+      "Jira",
+    ],
+    relevant: true,
+  },
   {
     date: "2022 - PRES",
     cat: "EXPERIENCIA",
@@ -622,7 +714,7 @@ export const portfolio = [
       "NextJs",
       "Shadcn",
       "PostGreSql",
-      "react Big Calendar"
+      "react Big Calendar",
     ],
     stage: "RECENT WORK",
     etapa: "RECIENTE",
@@ -645,7 +737,7 @@ export const portfolio = [
       "NextJs",
       "Shadcn",
       "Mamba UI",
-      "Vercel"
+      "Vercel",
     ],
     stage: "RECENT WORK",
     etapa: "RECIENTE",

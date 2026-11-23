@@ -32,7 +32,7 @@ const Intro = () => {
             animate={{ scale: 1, opacity: 1 }}
             transition={{ duration: 1 }}
           >
-            <h1 className="text-4xl sm:text-5xl underline mt-4  font-bold" style={{color:'#5be2cd '}}>
+            <h1 className="text-4xl sm:text-5xl underline mt-4 font-bold text-[#5be2cd]">
               gerardoMadridDev
             </h1>
           </motion.div>

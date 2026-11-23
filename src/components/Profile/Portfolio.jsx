@@ -1,9 +1,8 @@
 import { portfolio } from "../../../content";
 import { motion } from "framer-motion";
-import Rating from './Rating';
+import Rating from "./Rating";
 
-const Card4 = ({ language }) => {
-  console.log(portfolio);
+const Portfolio = ({ language }) => {
   return (
     <div className="flex flex-col w-full -ml-10">
       {portfolio.map((e, index) => (
@@ -22,9 +21,7 @@ const Card4 = ({ language }) => {
           <div className="sm:flex-col items-center flex ml-8 w-50 text-blue-100 opacity-70 text-xs gap-2 justify-center mb-2">
             <p>{language ? e.stage : e.etapa}</p>
             <span
-              style={{
-                color: e.cat === "FRONTEND" ? "#fed700" : "#5be2cd",
-              }}
+              className={e.cat === "FRONTEND" ? "text-[#fed700]" : "text-[#5be2cd]"}
             >
               {e.cat}
             </span>
@@ -70,8 +67,7 @@ const Card4 = ({ language }) => {
             <div className="flex gap-2 flex-wrap w-60 sm:w-96">
               {e.tech.map((tech, techIndex) => (
                 <span
-                  className="flex justify-center badge bg-transparent text-xs border-opacity-50 opacity-100"
-                  style={{ color: "#5be2cd" }}
+                  className="flex justify-center badge bg-transparent text-xs border-opacity-50 opacity-100 text-[#5be2cd]"
                   key={techIndex}
                 >
                   {tech}
@@ -85,4 +81,4 @@ const Card4 = ({ language }) => {
   );
 };
 
-export default Card4;
+export default Portfolio;

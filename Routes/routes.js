@@ -1,7 +1,8 @@
+import { redirect } from "react-router-dom";
 import MainLayout from "../src/components/mainLayout/MainLayout";
 import Intro from "../src/Pages/Intro/Intro.jsx";
 import About from "../src/Pages/about/About.jsx";
-import Portfolio from "../src/Pages/portfolio/Portfolio.jsx";
+import ImageGallery from "../src/Pages/imageGallery/ImageGallery.jsx";
 // import Countdown from "../src/Pages/countdown/Countdown";
 
  const routes = [
@@ -18,8 +19,12 @@ import Portfolio from "../src/Pages/portfolio/Portfolio.jsx";
         Component: About,
       },
       {
+        path: "/image-gallery",
+        Component: ImageGallery,
+      },
+      {
         path: "/portfolio",
-        Component: Portfolio,
+        loader: () => redirect("/image-gallery"),
       },
       // {
       //   path: "/countdown",
