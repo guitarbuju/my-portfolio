@@ -1,6 +1,6 @@
 import { motion, AnimatePresence } from "framer-motion";
-import { Link } from 'react-router-dom'
-import JsLogo from '../../assets/‎jsLogo.‎001.jpeg'
+import { Link } from "react-router-dom";
+import JsLogo from "../../assets/‎jsLogo.‎001.jpeg";
 
 const Intro = () => {
   return (
@@ -21,9 +21,7 @@ const Intro = () => {
                   delay: 0.8,
                 }}
               >
-                <img  
-                  src={JsLogo}
-                />
+                <img src={JsLogo} />
               </motion.div>
             </AnimatePresence>
           </div>
@@ -42,14 +40,14 @@ const Intro = () => {
             transition={{ duration: 2, delay: 1 }}
           >
             <p className="py-6 text-white opacity-80">
-              JavaScript, React.js, Node.js, Express.js, MongoDB, MySQL,Docker,
-              GIT, Postman, Jira
+              Python,Agentic Development,JavaScript, React.js, NextJs, Tailwind,
+              Node.js, Express.js, MongoDB, MySQL,Docker, GIT, Postman, Jira,
+              PostgreSQL,GIT
             </p>
-            <Link to='/about'>
-              <button className="btn btn-outline btn-accent mt-2 rounded-none" >
+            <Link to="/about">
+              <button className="btn btn-outline btn-accent mt-2 rounded-none">
                 Come in...
               </button>
-             
             </Link>
           </motion.div>
         </div>
