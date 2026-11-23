@@ -14,6 +14,7 @@ export const profileSkills = {
     automationTools: "GitHub Actions",
     qualityIntro: ", and code security, review, and quality with",
     qualityTools: "Snyk, CodeRabbit, and SonarQube",
+    agenticDevelopment: "I also use agentic development workflows with AI agents.",
     otherIntro: "Other technologies I use include",
   },
   es: {
@@ -30,6 +31,7 @@ export const profileSkills = {
     automationTools: "GitHub Actions",
     qualityIntro: ", y seguridad, revisión y calidad del código con",
     qualityTools: "Snyk, CodeRabbit y SonarQube",
+    agenticDevelopment: "También trabajo con agentes de IA para el desarrollo de software.",
     otherIntro: "Otras tecnologías que utilizo incluyen",
   },
 };

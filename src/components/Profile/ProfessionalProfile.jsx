@@ -43,6 +43,7 @@ const ProfessionalProfile = ({ language, showExperience }) => {
                 <span className="text-[#5be2cd]">{skills.automationTools}</span>
                 {skills.qualityIntro}{" "}
                 <span className="text-[#5be2cd]">{skills.qualityTools}</span>.
+                {" "}{skills.agenticDevelopment}
               </p>
               <p className="text-blue-100 text-justify text-xs leading-relaxed">
                 {skills.otherIntro}{" "}

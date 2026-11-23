@@ -40,9 +40,9 @@ const Intro = () => {
             transition={{ duration: 2, delay: 1 }}
           >
             <p className="py-6 text-white opacity-80">
-              Python,Agentic Development,JavaScript, React.js, NextJs, Tailwind,
-              Node.js, Express.js, MongoDB, MySQL,Docker, GIT, Postman, Jira,
-              PostgreSQL,GIT
+              Python, Agentic Development,JavaScript, React.js, NextJs,
+              Tailwind, Node.js, Express.js, MongoDB, MySQL,Docker, GIT,
+              Postman, Jira, PostgreSQL
             </p>
             <Link to="/about">
               <button className="btn btn-outline btn-accent mt-2 rounded-none">
