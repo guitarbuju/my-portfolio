@@ -27,29 +27,45 @@ const ProfessionalProfile = ({ language, showExperience }) => {
               </p>
               <p className="text-blue-100 text-justify text-xs leading-relaxed">
                 {skills.focusIntro}{" "}
-                <em className="text-[#5be2cd]">{skills.focus}</em>{" "}
-                {skills.focusConnector}{" "}
-                <span
-                  className="italic text-[#5be2cd] text-justify mr-1 text-xs"
-                >
-                  {skills.frontendTools}
+                <em className="text-[#5be2cd]">{skills.focus}</em>
+                {skills.focusOutro}{" "}
+                <span className="italic text-[#5be2cd]">
+                  {skills.focusTools}
                 </span>
-                {skills.frontendDetails}
-              </p>
-              <p className="text-blue-100 text-justify text-xs leading-relaxed ">
-                {skills.backendIntro}{" "}
-                <span className="text-[#5be2cd]">{skills.backendTools}</span>
-                {skills.automationIntro}{" "}
-                <span className="text-[#5be2cd]">{skills.automationTools}</span>
-                {skills.qualityIntro}{" "}
-                <span className="text-[#5be2cd]">{skills.qualityTools}</span>.
-                {" "}{skills.agenticDevelopment}
+                .
               </p>
               <p className="text-blue-100 text-justify text-xs leading-relaxed">
-                {skills.otherIntro}{" "}
-                <span className="text-[#5be2cd]">
-                  {profileSkills.otherTools}
-                </span>.
+                {skills.frontendIntro}{" "}
+                <span className="italic text-[#5be2cd]">
+                  {skills.frontendTools}
+                </span>{" "}
+                {skills.frontendOutro}
+              </p>
+              <p className="text-blue-100 text-justify text-xs leading-relaxed">
+                {skills.backendIntro}{" "}
+                <span className="text-[#5be2cd]">{skills.backendTools}</span>
+                {skills.databaseIntro}{" "}
+                <span className="text-[#5be2cd]">{skills.databaseTools}</span>{" "}
+                {skills.databaseOutro}
+              </p>
+              <p className="text-blue-100 text-justify text-xs leading-relaxed">
+                {skills.devopsIntro}{" "}
+                <span className="text-[#5be2cd]">{skills.cicdTools}</span>
+                {skills.containerIntro}{" "}
+                <span className="text-[#5be2cd]">{skills.containerTools}</span>
+                {skills.vcsIntro}{" "}
+                <span className="text-[#5be2cd]">{skills.vcsTools}</span>
+                {skills.agileIntro}{" "}
+                <span className="text-[#5be2cd]">{skills.agileTools}</span>
+                {skills.qualityIntro}{" "}
+                <span className="text-[#5be2cd]">{skills.qualityTools}</span>{" "}
+                {skills.qualityOutro}
+              </p>
+              <p className="text-blue-100 text-justify text-xs leading-relaxed">
+                {skills.agenticDevelopment}
+              </p>
+              <p className="text-blue-100 text-justify text-xs leading-relaxed">
+                {skills.closing}
               </p>
             </motion.div>
             <h4 className="text-blue-100 text-justify opacity-70 text-xs italic mx-16 leading-relaxed">
